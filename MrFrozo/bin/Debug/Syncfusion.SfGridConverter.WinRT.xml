@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Syncfusion.SfGridConverter.WinRT</name>
+    </assembly>
+    <members>
+        <member name="M:Syncfusion.UI.Xaml.Grid.Converter.GridCollectionExportExtension.ExportToExcel(Syncfusion.UI.Xaml.Grid.SfDataGrid,Syncfusion.Data.ICollectionViewAdv,Syncfusion.UI.Xaml.Grid.Converter.ExcelExportingOptions)">
+            <summary>
+            This method exports the dataGrid to excel by considering Grouping,Sorting,Filtering,Summaries,Paging,NestedGrid,CellTypes.
+            </summary>
+            <param name="grid"> SfDataGrid </param>
+            <param name="gridCollectionView"> ICollectionViewAdv</param>
+            <param name="excelExportingOptions"> Class <see cref="T:Syncfusion.UI.Xaml.Grid.Converter.ExcelExportingOptions"> which is used to set the Exporting Options </see></param>
+            <returns>ExcelEngine</returns>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:Syncfusion.UI.Xaml.Grid.Converter.GridCollectionExportExtension.ExportGroupToExcel(Syncfusion.Data.ICollectionViewAdv,Syncfusion.UI.Xaml.Grid.SfDataGrid,Syncfusion.XlsIO.IWorksheet,Syncfusion.Data.Group,Syncfusion.UI.Xaml.Grid.Converter.ExcelExportingOptions)" -->
+        <!-- Badly formed XML comment ignored for member "M:Syncfusion.UI.Xaml.Grid.Converter.GridCollectionExportExtension.ExportGroupCaptionToExcel(Syncfusion.UI.Xaml.Grid.SfDataGrid,Syncfusion.Data.ICollectionViewAdv,Syncfusion.Data.Group,Syncfusion.XlsIO.IWorksheet,Syncfusion.UI.Xaml.Grid.Converter.ExcelExportingOptions)" -->
+        <!-- Badly formed XML comment ignored for member "M:Syncfusion.UI.Xaml.Grid.Converter.GridCollectionExportExtension.ExportGroupSummariesToExcel(Syncfusion.UI.Xaml.Grid.SfDataGrid,Syncfusion.XlsIO.IWorksheet,Syncfusion.Data.ICollectionViewAdv,Syncfusion.Data.Group,Syncfusion.UI.Xaml.Grid.Converter.ExcelExportingOptions)" -->
+        <!-- Badly formed XML comment ignored for member "M:Syncfusion.UI.Xaml.Grid.Converter.GridCollectionExportExtension.ExportTableSummariesToExcel(Syncfusion.UI.Xaml.Grid.SfDataGrid,Syncfusion.XlsIO.IWorksheet,Syncfusion.Data.ICollectionViewAdv,Syncfusion.UI.Xaml.Grid.Converter.ExcelExportingOptions)" -->
+        <!-- Badly formed XML comment ignored for member "M:Syncfusion.UI.Xaml.Grid.Converter.GridCollectionExportExtension.ExportHeadersToExcel(Syncfusion.UI.Xaml.Grid.SfDataGrid,Syncfusion.XlsIO.IWorksheet,System.Int32,Syncfusion.UI.Xaml.Grid.Converter.ExcelExportingOptions)" -->
+        <!-- Badly formed XML comment ignored for member "M:Syncfusion.UI.Xaml.Grid.Converter.GridCollectionExportExtension.ExportChildGridToExcel(Syncfusion.UI.Xaml.Grid.SfDataGrid,Syncfusion.XlsIO.IWorksheet,Syncfusion.Data.ICollectionViewAdv,Syncfusion.UI.Xaml.Grid.Converter.ExcelExportingOptions)" -->
+        <member name="M:Syncfusion.UI.Xaml.Grid.Converter.GridCollectionExportExtension.SetIndentColumnWidth(Syncfusion.XlsIO.IWorksheet,System.Int32,System.Int32)">
+            <summary>
+            Sets the ColumnWidth for the specified cells as 20.
+            </summary>
+            <param name="sheet">IWorkSheet</param>
+            <param name="start">Start: Specifies the start indent column index</param>
+            <param name="end">end : Specifies the End column index of indent cells</param>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Grid.Converter.GridCollectionExportExtension.SetColumnWidth(Syncfusion.UI.Xaml.Grid.SfDataGrid,Syncfusion.XlsIO.IWorksheet,System.Int32,System.Collections.Generic.List{System.String})">
+            <summary>
+            Sets the column width from Grid To Excel for all columns starting from specified column index.        
+            </summary>
+            <param name="grid">SfDataGrid</param>
+            <param name="sheet">IWorksheet</param>
+            <param name="columnIndex">ColumnIndex: Specifies the First Column index</param>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:Syncfusion.UI.Xaml.Grid.Converter.GridCollectionExportExtension.ExportCellStyle(Syncfusion.XlsIO.IRange,Syncfusion.UI.Xaml.Grid.Converter.ExportCellStyle)" -->
+        <member name="M:Syncfusion.UI.Xaml.Grid.Converter.GridCollectionExportExtension.CreateCollectionView(Syncfusion.UI.Xaml.Grid.SfDataGrid,System.Object,System.String,Syncfusion.Data.IPropertyAccessProvider)">
+            <summary>
+            Creates the new CollectionViewAdv and adds the Summaries, Groups, SortDescriptions.
+            </summary>
+            <param name="childGrid">SfdataGrid</param>
+            <param name="recordData">RecordEntry:Parent Record</param>
+            <param name="relationalColumn">RelationalColumn</param>
+            <param name="propertyAccessProvider">IPropertyAccesProvider</param>
+            <returns>ICollectionViewAdv</returns>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Grid.Converter.GridCollectionExportExtension.ExportCellValueToExcel(Syncfusion.XlsIO.IRange,System.Object,System.Type)">
+            <summary>
+            Exports the cell value from datagrid to excel.
+            </summary>
+            <param name="excelRange">IRange - to which the cellvalue is to be exported.</param>
+            <param name="cellValue">Object which holds the value that is exported to excel</param>
+            <param name="propertyType">Determines the property type (Ex: String, Double, Date)</param>
+        </member>
+        <member name="T:Syncfusion.UI.Xaml.Grid.Converter.ExcelExportingOptions">
+            <summary>
+            Class which is used to set the ExportingOptions. 
+            user can pass this class as an argument to the ExportToExcelMethod.
+            </summary>
+        </member>
+    </members>
+</doc>

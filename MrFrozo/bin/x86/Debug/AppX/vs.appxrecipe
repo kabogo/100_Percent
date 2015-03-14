@@ -1,0 +1,1001 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>PG-PC</Machine>
+    <WindowsUser>Jeremy</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>ecf9a86e-7f76-4904-9b96-31e103180ad2</PackageIdentityName>
+    <IntermediateOutputPath>D:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>CB7BAE0D4815FC11F67AFDEF83D8126178710D4C32B2598E7BF4AA35F29DDE6A</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>ecf9a86e-7f76-4904-9b96-31e103180ad2_1.0.0.0_x86__yps17xarsp2at</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>ecf9a86e-7f76-4904-9b96-31e103180ad2_yps17xarsp2at!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>ecf9a86e-7f76-4904-9b96-31e103180ad2</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=test</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-14T13:08:06.152</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\MrFrozo.exe">
+      <PackagePath>MrFrozo.exe</PackagePath>
+      <Modified>2015-03-14T13:08:01.795</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\References\CommonConfiguration\neutral\Syncfusion.Calculate.WinRT.dll">
+      <PackagePath>Syncfusion.Calculate.WinRT.dll</PackagePath>
+      <Modified>2014-12-18T16:54:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\References\CommonConfiguration\neutral\Syncfusion.Data.WinRT.dll">
+      <PackagePath>Syncfusion.Data.WinRT.dll</PackagePath>
+      <Modified>2014-12-19T08:46:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\References\CommonConfiguration\neutral\Syncfusion.DocIO.WinRT.dll">
+      <PackagePath>Syncfusion.DocIO.WinRT.dll</PackagePath>
+      <Modified>2014-12-18T16:50:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\References\CommonConfiguration\neutral\Syncfusion.GridCommon.WinRT.dll">
+      <PackagePath>Syncfusion.GridCommon.WinRT.dll</PackagePath>
+      <Modified>2014-12-18T16:47:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\References\CommonConfiguration\neutral\Syncfusion.Pdf.WinRT.dll">
+      <PackagePath>Syncfusion.Pdf.WinRT.dll</PackagePath>
+      <Modified>2014-12-18T16:51:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\References\CommonConfiguration\neutral\Syncfusion.PMML.WinRT.dll">
+      <PackagePath>Syncfusion.PMML.WinRT.dll</PackagePath>
+      <Modified>2014-12-18T16:54:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\References\CommonConfiguration\neutral\Syncfusion.SfAccordion.WinRT.dll">
+      <PackagePath>Syncfusion.SfAccordion.WinRT.dll</PackagePath>
+      <Modified>2014-12-18T16:52:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\References\CommonConfiguration\neutral\Syncfusion.SfBarcode.WinRT.dll">
+      <PackagePath>Syncfusion.SfBarcode.WinRT.dll</PackagePath>
+      <Modified>2014-12-18T16:52:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\References\CommonConfiguration\neutral\Syncfusion.SfBulletGraph.WinRT.dll">
+      <PackagePath>Syncfusion.SfBulletGraph.WinRT.dll</PackagePath>
+      <Modified>2014-12-18T16:52:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\References\CommonConfiguration\neutral\Syncfusion.SfBusyIndicator.WinRT.dll">
+      <PackagePath>Syncfusion.SfBusyIndicator.WinRT.dll</PackagePath>
+      <Modified>2014-12-18T16:53:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\References\CommonConfiguration\neutral\Syncfusion.SfCarousel.WinRT.dll">
+      <PackagePath>Syncfusion.SfCarousel.WinRT.dll</PackagePath>
+      <Modified>2014-12-18T16:49:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\References\CommonConfiguration\neutral\Syncfusion.SfChart.WinRT.dll">
+      <PackagePath>Syncfusion.SfChart.WinRT.dll</PackagePath>
+      <Modified>2014-12-24T01:13:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\References\CommonConfiguration\neutral\Syncfusion.SfColorPickers.WinRT.dll">
+      <PackagePath>Syncfusion.SfColorPickers.WinRT.dll</PackagePath>
+      <Modified>2014-12-20T02:24:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\References\CommonConfiguration\neutral\Syncfusion.SfDiagram.WinRT.dll">
+      <PackagePath>Syncfusion.SfDiagram.WinRT.dll</PackagePath>
+      <Modified>2014-12-18T16:50:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\References\CommonConfiguration\neutral\Syncfusion.SfGauge.WinRT.dll">
+      <PackagePath>Syncfusion.SfGauge.WinRT.dll</PackagePath>
+      <Modified>2014-12-18T16:50:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\References\CommonConfiguration\neutral\Syncfusion.SfGrid.WinRT.dll">
+      <PackagePath>Syncfusion.SfGrid.WinRT.dll</PackagePath>
+      <Modified>2014-12-20T02:23:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\References\CommonConfiguration\neutral\Syncfusion.SfGridBase.WinRT.dll">
+      <PackagePath>Syncfusion.SfGridBase.WinRT.dll</PackagePath>
+      <Modified>2014-12-18T16:48:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\References\CommonConfiguration\neutral\Syncfusion.SfGridConverter.WinRT.dll">
+      <PackagePath>Syncfusion.SfGridConverter.WinRT.dll</PackagePath>
+      <Modified>2014-12-19T08:48:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\References\CommonConfiguration\neutral\Syncfusion.SfHubTile.WinRT.dll">
+      <PackagePath>Syncfusion.SfHubTile.WinRT.dll</PackagePath>
+      <Modified>2014-12-18T16:50:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\References\CommonConfiguration\neutral\Syncfusion.SfInput.WinRT.dll">
+      <PackagePath>Syncfusion.SfInput.WinRT.dll</PackagePath>
+      <Modified>2014-12-18T16:48:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\References\CommonConfiguration\neutral\Syncfusion.SfMaps.WinRT.dll">
+      <PackagePath>Syncfusion.SfMaps.WinRT.dll</PackagePath>
+      <Modified>2014-12-18T16:50:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\References\CommonConfiguration\neutral\Syncfusion.SfPdfViewer.WinRT.dll">
+      <PackagePath>Syncfusion.SfPdfViewer.WinRT.dll</PackagePath>
+      <Modified>2014-12-18T16:54:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\References\CommonConfiguration\neutral\Syncfusion.SfRadialMenu.WinRT.dll">
+      <PackagePath>Syncfusion.SfRadialMenu.WinRT.dll</PackagePath>
+      <Modified>2014-12-18T16:51:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\References\CommonConfiguration\neutral\Syncfusion.SfReportViewer.WinRT.dll">
+      <PackagePath>Syncfusion.SfReportViewer.WinRT.dll</PackagePath>
+      <Modified>2014-12-18T16:53:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\References\CommonConfiguration\neutral\Syncfusion.SfRibbon.WinRT.dll">
+      <PackagePath>Syncfusion.SfRibbon.WinRT.dll</PackagePath>
+      <Modified>2014-12-18T16:54:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\References\CommonConfiguration\neutral\Syncfusion.SfRichTextBoxAdv.WinRT.dll">
+      <PackagePath>Syncfusion.SfRichTextBoxAdv.WinRT.dll</PackagePath>
+      <Modified>2014-12-22T01:53:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\References\CommonConfiguration\neutral\Syncfusion.SfSchedule.WinRT.dll">
+      <PackagePath>Syncfusion.SfSchedule.WinRT.dll</PackagePath>
+      <Modified>2014-12-18T16:53:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\References\CommonConfiguration\neutral\Syncfusion.SfShared.WinRT.dll">
+      <PackagePath>Syncfusion.SfShared.WinRT.dll</PackagePath>
+      <Modified>2014-12-18T16:47:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\References\CommonConfiguration\neutral\Syncfusion.SfTabControl.WinRT.dll">
+      <PackagePath>Syncfusion.SfTabControl.WinRT.dll</PackagePath>
+      <Modified>2014-12-18T16:51:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\References\CommonConfiguration\neutral\Syncfusion.SfTileView.WinRT.dll">
+      <PackagePath>Syncfusion.SfTileView.WinRT.dll</PackagePath>
+      <Modified>2014-12-18T16:51:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\References\CommonConfiguration\neutral\Syncfusion.SfTreeMap.WinRT.dll">
+      <PackagePath>Syncfusion.SfTreeMap.WinRT.dll</PackagePath>
+      <Modified>2014-12-18T16:53:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\References\CommonConfiguration\neutral\Syncfusion.SfTreeNavigator.WinRT.dll">
+      <PackagePath>Syncfusion.SfTreeNavigator.WinRT.dll</PackagePath>
+      <Modified>2014-12-18T16:52:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\References\CommonConfiguration\neutral\Syncfusion.XlsIO.WinRT.dll">
+      <PackagePath>Syncfusion.XlsIO.WinRT.dll</PackagePath>
+      <Modified>2014-12-18T16:51:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfGrid.WinRT\GridFiltering\Themes\AdvancedFilterControl.xbf">
+      <PackagePath>Syncfusion.SfGrid.WinRT\GridFiltering\Themes\AdvancedFilterControl.xbf</PackagePath>
+      <Modified>2014-12-20T02:23:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfChart.WinRT\ChartArea\Themes\ChartArea.xbf">
+      <PackagePath>Syncfusion.SfChart.WinRT\ChartArea\Themes\ChartArea.xbf</PackagePath>
+      <Modified>2014-12-24T01:13:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfChart.WinRT\ChartAxis\Themes\ChartAxis.xbf">
+      <PackagePath>Syncfusion.SfChart.WinRT\ChartAxis\Themes\ChartAxis.xbf</PackagePath>
+      <Modified>2014-12-24T01:13:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfChart.WinRT\3D\ChartSeries\Themes\ChartSeries.xbf">
+      <PackagePath>Syncfusion.SfChart.WinRT\3D\ChartSeries\Themes\ChartSeries.xbf</PackagePath>
+      <Modified>2014-12-24T01:13:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfChart.WinRT\ChartSeries\Themes\ChartSeries.xbf">
+      <PackagePath>Syncfusion.SfChart.WinRT\ChartSeries\Themes\ChartSeries.xbf</PackagePath>
+      <Modified>2014-12-24T01:13:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfChart.WinRT\Controls\Themes\ChartToolBar.xbf">
+      <PackagePath>Syncfusion.SfChart.WinRT\Controls\Themes\ChartToolBar.xbf</PackagePath>
+      <Modified>2014-12-24T01:13:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfGauge.WinRT\CircularGauge\Themes\CircularGauge.xbf">
+      <PackagePath>Syncfusion.SfGauge.WinRT\CircularGauge\Themes\CircularGauge.xbf</PackagePath>
+      <Modified>2014-12-18T16:50:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfMaps.WinRT\Themes\ColorPalette.xbf">
+      <PackagePath>Syncfusion.SfMaps.WinRT\Themes\ColorPalette.xbf</PackagePath>
+      <Modified>2014-12-18T16:50:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfGauge.WinRT\DigitalGauge\Themes\DigitalGauge.xbf">
+      <PackagePath>Syncfusion.SfGauge.WinRT\DigitalGauge\Themes\DigitalGauge.xbf</PackagePath>
+      <Modified>2014-12-18T16:50:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfPdfViewer.WinRT\Themes\Generic.Advanced.xbf">
+      <PackagePath>Syncfusion.SfPdfViewer.WinRT\Themes\Generic.Advanced.xbf</PackagePath>
+      <Modified>2014-12-18T16:54:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfChart.WinRT\Themes\Generic.Common.xbf">
+      <PackagePath>Syncfusion.SfChart.WinRT\Themes\Generic.Common.xbf</PackagePath>
+      <Modified>2014-12-24T01:13:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfChart.WinRT\Themes\Generic.Legend.xbf">
+      <PackagePath>Syncfusion.SfChart.WinRT\Themes\Generic.Legend.xbf</PackagePath>
+      <Modified>2014-12-24T01:13:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfChart.WinRT\Themes\Generic.Symbol.xbf">
+      <PackagePath>Syncfusion.SfChart.WinRT\Themes\Generic.Symbol.xbf</PackagePath>
+      <Modified>2014-12-24T01:13:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.GridCommon.WinRT\Themes\Generic.xbf">
+      <PackagePath>Syncfusion.GridCommon.WinRT\Themes\Generic.xbf</PackagePath>
+      <Modified>2014-12-18T16:47:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfAccordion.WinRT\Themes\generic.xbf">
+      <PackagePath>Syncfusion.SfAccordion.WinRT\Themes\generic.xbf</PackagePath>
+      <Modified>2014-12-18T16:52:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfBarcode.WinRT\Themes\Generic.xbf">
+      <PackagePath>Syncfusion.SfBarcode.WinRT\Themes\Generic.xbf</PackagePath>
+      <Modified>2014-12-18T16:52:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfBulletGraph.WinRT\Themes\Generic.xbf">
+      <PackagePath>Syncfusion.SfBulletGraph.WinRT\Themes\Generic.xbf</PackagePath>
+      <Modified>2014-12-18T16:52:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfBusyIndicator.WinRT\Themes\generic.xbf">
+      <PackagePath>Syncfusion.SfBusyIndicator.WinRT\Themes\generic.xbf</PackagePath>
+      <Modified>2014-12-18T16:53:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfCarousel.WinRT\Themes\generic.xbf">
+      <PackagePath>Syncfusion.SfCarousel.WinRT\Themes\generic.xbf</PackagePath>
+      <Modified>2014-12-18T16:49:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfChart.WinRT\Themes\generic.xbf">
+      <PackagePath>Syncfusion.SfChart.WinRT\Themes\generic.xbf</PackagePath>
+      <Modified>2014-12-24T01:13:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfColorPickers.WinRT\Themes\generic.xbf">
+      <PackagePath>Syncfusion.SfColorPickers.WinRT\Themes\generic.xbf</PackagePath>
+      <Modified>2014-12-20T02:24:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfDiagram.WinRT\Themes\Generic.xbf">
+      <PackagePath>Syncfusion.SfDiagram.WinRT\Themes\Generic.xbf</PackagePath>
+      <Modified>2014-12-18T16:50:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfGauge.WinRT\Themes\Generic.xbf">
+      <PackagePath>Syncfusion.SfGauge.WinRT\Themes\Generic.xbf</PackagePath>
+      <Modified>2014-12-18T16:50:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfGrid.WinRT\ColumnChooser\Themes\Generic.xbf">
+      <PackagePath>Syncfusion.SfGrid.WinRT\ColumnChooser\Themes\Generic.xbf</PackagePath>
+      <Modified>2014-12-20T02:23:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfGrid.WinRT\Control\DetailsView\Themes\Generic.xbf">
+      <PackagePath>Syncfusion.SfGrid.WinRT\Control\DetailsView\Themes\Generic.xbf</PackagePath>
+      <Modified>2014-12-20T02:23:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfGrid.WinRT\Control\GroupDropArea\Themes\Generic.xbf">
+      <PackagePath>Syncfusion.SfGrid.WinRT\Control\GroupDropArea\Themes\Generic.xbf</PackagePath>
+      <Modified>2014-12-20T02:23:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfGrid.WinRT\Control\Themes\Generic.xbf">
+      <PackagePath>Syncfusion.SfGrid.WinRT\Control\Themes\Generic.xbf</PackagePath>
+      <Modified>2014-12-20T02:23:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfGrid.WinRT\DataPager\Themes\Generic.xbf">
+      <PackagePath>Syncfusion.SfGrid.WinRT\DataPager\Themes\Generic.xbf</PackagePath>
+      <Modified>2014-12-20T02:23:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfGrid.WinRT\GridCommon\ScrollableContentViewer\Themes\Generic.xbf">
+      <PackagePath>Syncfusion.SfGrid.WinRT\GridCommon\ScrollableContentViewer\Themes\Generic.xbf</PackagePath>
+      <Modified>2014-12-20T02:23:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfGrid.WinRT\GridCommon\Themes\generic.xbf">
+      <PackagePath>Syncfusion.SfGrid.WinRT\GridCommon\Themes\generic.xbf</PackagePath>
+      <Modified>2014-12-20T02:23:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfGrid.WinRT\GridFiltering\Themes\Generic.xbf">
+      <PackagePath>Syncfusion.SfGrid.WinRT\GridFiltering\Themes\Generic.xbf</PackagePath>
+      <Modified>2014-12-20T02:23:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfGrid.WinRT\MultiColumnDropDownControl\Themes\Generic.xbf">
+      <PackagePath>Syncfusion.SfGrid.WinRT\MultiColumnDropDownControl\Themes\Generic.xbf</PackagePath>
+      <Modified>2014-12-20T02:23:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfGrid.WinRT\Print\Themes\Generic.xbf">
+      <PackagePath>Syncfusion.SfGrid.WinRT\Print\Themes\Generic.xbf</PackagePath>
+      <Modified>2014-12-20T02:23:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfGrid.WinRT\Themes\Generic.xbf">
+      <PackagePath>Syncfusion.SfGrid.WinRT\Themes\Generic.xbf</PackagePath>
+      <Modified>2014-12-20T02:23:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfGridBase.WinRT\Themes\Generic.xbf">
+      <PackagePath>Syncfusion.SfGridBase.WinRT\Themes\Generic.xbf</PackagePath>
+      <Modified>2014-12-18T16:48:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfHubTile.WinRT\Themes\generic.xbf">
+      <PackagePath>Syncfusion.SfHubTile.WinRT\Themes\generic.xbf</PackagePath>
+      <Modified>2014-12-18T16:50:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfInput.WinRT\Themes\generic.xbf">
+      <PackagePath>Syncfusion.SfInput.WinRT\Themes\generic.xbf</PackagePath>
+      <Modified>2014-12-18T16:48:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfMaps.WinRT\Themes\Generic.xbf">
+      <PackagePath>Syncfusion.SfMaps.WinRT\Themes\Generic.xbf</PackagePath>
+      <Modified>2014-12-18T16:50:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfPdfViewer.WinRT\Themes\Generic.xbf">
+      <PackagePath>Syncfusion.SfPdfViewer.WinRT\Themes\Generic.xbf</PackagePath>
+      <Modified>2014-12-18T16:54:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfRadialMenu.WinRT\Themes\generic.xbf">
+      <PackagePath>Syncfusion.SfRadialMenu.WinRT\Themes\generic.xbf</PackagePath>
+      <Modified>2014-12-18T16:51:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfReportViewer.WinRT\Themes\Generic.xbf">
+      <PackagePath>Syncfusion.SfReportViewer.WinRT\Themes\Generic.xbf</PackagePath>
+      <Modified>2014-12-18T16:53:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfRibbon.WinRT\Themes\Generic.xbf">
+      <PackagePath>Syncfusion.SfRibbon.WinRT\Themes\Generic.xbf</PackagePath>
+      <Modified>2014-12-18T16:54:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfRichTextBoxAdv.WinRT\Themes\Generic.xbf">
+      <PackagePath>Syncfusion.SfRichTextBoxAdv.WinRT\Themes\Generic.xbf</PackagePath>
+      <Modified>2014-12-22T01:53:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfSchedule.WinRT\Themes\generic.xbf">
+      <PackagePath>Syncfusion.SfSchedule.WinRT\Themes\generic.xbf</PackagePath>
+      <Modified>2014-12-18T16:53:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfShared.WinRT\Themes\generic.xbf">
+      <PackagePath>Syncfusion.SfShared.WinRT\Themes\generic.xbf</PackagePath>
+      <Modified>2014-12-18T16:47:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfTabControl.WinRT\Themes\generic.xbf">
+      <PackagePath>Syncfusion.SfTabControl.WinRT\Themes\generic.xbf</PackagePath>
+      <Modified>2014-12-18T16:51:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfTileView.WinRT\Themes\generic.xbf">
+      <PackagePath>Syncfusion.SfTileView.WinRT\Themes\generic.xbf</PackagePath>
+      <Modified>2014-12-18T16:51:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfTreeMap.WinRT\Themes\Generic.xbf">
+      <PackagePath>Syncfusion.SfTreeMap.WinRT\Themes\Generic.xbf</PackagePath>
+      <Modified>2014-12-18T16:53:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfTreeNavigator.WinRT\Themes\generic.xbf">
+      <PackagePath>Syncfusion.SfTreeNavigator.WinRT\Themes\generic.xbf</PackagePath>
+      <Modified>2014-12-18T16:52:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfDiagram.WinRT\Themes\GenericWinRT.xbf">
+      <PackagePath>Syncfusion.SfDiagram.WinRT\Themes\GenericWinRT.xbf</PackagePath>
+      <Modified>2014-12-18T16:50:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfGauge.WinRT\LinearGauge\Themes\LinearGauge.xbf">
+      <PackagePath>Syncfusion.SfGauge.WinRT\LinearGauge\Themes\LinearGauge.xbf</PackagePath>
+      <Modified>2014-12-18T16:50:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfChart.WinRT\Controls\Themes\ResizableScrollBar.xbf">
+      <PackagePath>Syncfusion.SfChart.WinRT\Controls\Themes\ResizableScrollBar.xbf</PackagePath>
+      <Modified>2014-12-24T01:13:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfChart.WinRT\Controls\Themes\Resizer.xbf">
+      <PackagePath>Syncfusion.SfChart.WinRT\Controls\Themes\Resizer.xbf</PackagePath>
+      <Modified>2014-12-24T01:13:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfSchedule.WinRT\Themes\ScheduleAppointmentResources.xbf">
+      <PackagePath>Syncfusion.SfSchedule.WinRT\Themes\ScheduleAppointmentResources.xbf</PackagePath>
+      <Modified>2014-12-18T16:53:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfSchedule.WinRT\Themes\ScheduleDaysViewResources.xbf">
+      <PackagePath>Syncfusion.SfSchedule.WinRT\Themes\ScheduleDaysViewResources.xbf</PackagePath>
+      <Modified>2014-12-18T16:53:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfSchedule.WinRT\Themes\ScheduleMonthViewResources.xbf">
+      <PackagePath>Syncfusion.SfSchedule.WinRT\Themes\ScheduleMonthViewResources.xbf</PackagePath>
+      <Modified>2014-12-18T16:53:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfSchedule.WinRT\Themes\ScheduleTimeLineViewResources.xbf">
+      <PackagePath>Syncfusion.SfSchedule.WinRT\Themes\ScheduleTimeLineViewResources.xbf</PackagePath>
+      <Modified>2014-12-18T16:53:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfChart.WinRT\3D\ChartArea\Themes\SfChart3D.xbf">
+      <PackagePath>Syncfusion.SfChart.WinRT\3D\ChartArea\Themes\SfChart3D.xbf</PackagePath>
+      <Modified>2014-12-24T01:13:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfChart.WinRT\Controls\Themes\SfRangeNavigator.xbf">
+      <PackagePath>Syncfusion.SfChart.WinRT\Controls\Themes\SfRangeNavigator.xbf</PackagePath>
+      <Modified>2014-12-24T01:13:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfChart.WinRT\Sparkline\Themes\Sparkline.xbf">
+      <PackagePath>Syncfusion.SfChart.WinRT\Sparkline\Themes\Sparkline.xbf</PackagePath>
+      <Modified>2014-12-24T01:13:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfGrid.WinRT\Styles\Styles.xbf">
+      <PackagePath>Syncfusion.SfGrid.WinRT\Styles\Styles.xbf</PackagePath>
+      <Modified>2014-12-20T02:23:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfMaps.WinRT\Themes\Templates.xbf">
+      <PackagePath>Syncfusion.SfMaps.WinRT\Themes\Templates.xbf</PackagePath>
+      <Modified>2014-12-18T16:50:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfPdfViewer.WinRT\Implementation\UI\TextSelectionCopyButton.xbf">
+      <PackagePath>Syncfusion.SfPdfViewer.WinRT\Implementation\UI\TextSelectionCopyButton.xbf</PackagePath>
+      <Modified>2014-12-18T16:54:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfPdfViewer.WinRT\Implementation\UI\ThumbnailView.xbf">
+      <PackagePath>Syncfusion.SfPdfViewer.WinRT\Implementation\UI\ThumbnailView.xbf</PackagePath>
+      <Modified>2014-12-18T16:54:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfDiagram.WinRT\Themes\WinRTResource.xbf">
+      <PackagePath>Syncfusion.SfDiagram.WinRT\Themes\WinRTResource.xbf</PackagePath>
+      <Modified>2014-12-18T16:50:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\SQLite.WinRT81\3.8.8.3\Redist\Debug\x86\sqlite3.dll">
+      <PackagePath>sqlite3.dll</PackagePath>
+      <Modified>2015-03-12T11:21:35.912</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfGrid.WinRT\Syncfusion.Data.WinRT.xml">
+      <PackagePath>Syncfusion.SfGrid.WinRT\Syncfusion.Data.WinRT.xml</PackagePath>
+      <Modified>2014-12-19T08:46:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfReportViewer.WinRT\Syncfusion.DocIO.WinRT.xml">
+      <PackagePath>Syncfusion.SfReportViewer.WinRT\Syncfusion.DocIO.WinRT.xml</PackagePath>
+      <Modified>2014-12-18T16:50:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfRichTextBoxAdv.WinRT\Syncfusion.DocIO.WinRT.xml">
+      <PackagePath>Syncfusion.SfRichTextBoxAdv.WinRT\Syncfusion.DocIO.WinRT.xml</PackagePath>
+      <Modified>2014-12-18T16:50:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.GridCommon.WinRT\Syncfusion.GridCommon.WinRT.xml">
+      <PackagePath>Syncfusion.GridCommon.WinRT\Syncfusion.GridCommon.WinRT.xml</PackagePath>
+      <Modified>2014-12-18T16:47:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfGridBase.WinRT\Syncfusion.GridCommon.WinRT.xml">
+      <PackagePath>Syncfusion.SfGridBase.WinRT\Syncfusion.GridCommon.WinRT.xml</PackagePath>
+      <Modified>2014-12-18T16:47:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfReportViewer.WinRT\Syncfusion.GridCommon.WinRT.xml">
+      <PackagePath>Syncfusion.SfReportViewer.WinRT\Syncfusion.GridCommon.WinRT.xml</PackagePath>
+      <Modified>2014-12-18T16:47:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.GridCommon.WinRT\Syncfusion.GridCommon.WinRT.xr.xml">
+      <PackagePath>Syncfusion.GridCommon.WinRT\Syncfusion.GridCommon.WinRT.xr.xml</PackagePath>
+      <Modified>2014-12-18T16:47:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfPdfViewer.WinRT\Syncfusion.Pdf.WinRT.xml">
+      <PackagePath>Syncfusion.SfPdfViewer.WinRT\Syncfusion.Pdf.WinRT.xml</PackagePath>
+      <Modified>2014-12-18T16:51:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfReportViewer.WinRT\Syncfusion.Pdf.WinRT.xml">
+      <PackagePath>Syncfusion.SfReportViewer.WinRT\Syncfusion.Pdf.WinRT.xml</PackagePath>
+      <Modified>2014-12-18T16:51:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.PMML.WinRT\Syncfusion.PMML.WinRT.xml">
+      <PackagePath>Syncfusion.PMML.WinRT\Syncfusion.PMML.WinRT.xml</PackagePath>
+      <Modified>2014-12-18T16:54:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfAccordion.WinRT\Syncfusion.SfAccordion.WinRT.xml">
+      <PackagePath>Syncfusion.SfAccordion.WinRT\Syncfusion.SfAccordion.WinRT.xml</PackagePath>
+      <Modified>2014-12-18T16:52:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfAccordion.WinRT\Syncfusion.SfAccordion.WinRT.xr.xml">
+      <PackagePath>Syncfusion.SfAccordion.WinRT\Syncfusion.SfAccordion.WinRT.xr.xml</PackagePath>
+      <Modified>2014-12-18T16:52:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfBarcode.WinRT\Syncfusion.SfBarcode.WinRT.xml">
+      <PackagePath>Syncfusion.SfBarcode.WinRT\Syncfusion.SfBarcode.WinRT.xml</PackagePath>
+      <Modified>2014-12-18T16:52:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfBarcode.WinRT\Syncfusion.SfBarcode.WinRT.xr.xml">
+      <PackagePath>Syncfusion.SfBarcode.WinRT\Syncfusion.SfBarcode.WinRT.xr.xml</PackagePath>
+      <Modified>2014-12-18T16:52:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfBulletGraph.WinRT\Syncfusion.SfBulletGraph.WinRT.xml">
+      <PackagePath>Syncfusion.SfBulletGraph.WinRT\Syncfusion.SfBulletGraph.WinRT.xml</PackagePath>
+      <Modified>2014-12-18T16:52:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfBulletGraph.WinRT\Syncfusion.SfBulletGraph.WinRT.xr.xml">
+      <PackagePath>Syncfusion.SfBulletGraph.WinRT\Syncfusion.SfBulletGraph.WinRT.xr.xml</PackagePath>
+      <Modified>2014-12-18T16:52:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfBusyIndicator.WinRT\Syncfusion.SfBusyIndicator.WinRT.xml">
+      <PackagePath>Syncfusion.SfBusyIndicator.WinRT\Syncfusion.SfBusyIndicator.WinRT.xml</PackagePath>
+      <Modified>2014-12-18T16:53:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfBusyIndicator.WinRT\Syncfusion.SfBusyIndicator.WinRT.xr.xml">
+      <PackagePath>Syncfusion.SfBusyIndicator.WinRT\Syncfusion.SfBusyIndicator.WinRT.xr.xml</PackagePath>
+      <Modified>2014-12-18T16:53:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfCarousel.WinRT\Syncfusion.SfCarousel.WinRT.xml">
+      <PackagePath>Syncfusion.SfCarousel.WinRT\Syncfusion.SfCarousel.WinRT.xml</PackagePath>
+      <Modified>2014-12-18T16:49:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfCarousel.WinRT\Syncfusion.SfCarousel.WinRT.xr.xml">
+      <PackagePath>Syncfusion.SfCarousel.WinRT\Syncfusion.SfCarousel.WinRT.xr.xml</PackagePath>
+      <Modified>2014-12-18T16:49:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfChart.WinRT\Syncfusion.SfChart.WinRT.xml">
+      <PackagePath>Syncfusion.SfChart.WinRT\Syncfusion.SfChart.WinRT.xml</PackagePath>
+      <Modified>2014-12-24T01:13:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfReportViewer.WinRT\Syncfusion.SfChart.WinRT.xml">
+      <PackagePath>Syncfusion.SfReportViewer.WinRT\Syncfusion.SfChart.WinRT.xml</PackagePath>
+      <Modified>2014-12-18T16:49:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfChart.WinRT\Syncfusion.SfChart.WinRT.xr.xml">
+      <PackagePath>Syncfusion.SfChart.WinRT\Syncfusion.SfChart.WinRT.xr.xml</PackagePath>
+      <Modified>2014-12-24T01:13:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfColorPickers.WinRT\Syncfusion.SfColorPickers.WinRT.xml">
+      <PackagePath>Syncfusion.SfColorPickers.WinRT\Syncfusion.SfColorPickers.WinRT.xml</PackagePath>
+      <Modified>2014-12-20T02:24:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfColorPickers.WinRT\Syncfusion.SfColorPickers.WinRT.xr.xml">
+      <PackagePath>Syncfusion.SfColorPickers.WinRT\Syncfusion.SfColorPickers.WinRT.xr.xml</PackagePath>
+      <Modified>2014-12-20T02:24:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfDiagram.WinRT\Syncfusion.SfDiagram.WinRT.xml">
+      <PackagePath>Syncfusion.SfDiagram.WinRT\Syncfusion.SfDiagram.WinRT.xml</PackagePath>
+      <Modified>2014-12-18T16:50:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfDiagram.WinRT\Syncfusion.SfDiagram.WinRT.xr.xml">
+      <PackagePath>Syncfusion.SfDiagram.WinRT\Syncfusion.SfDiagram.WinRT.xr.xml</PackagePath>
+      <Modified>2014-12-18T16:50:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfGauge.WinRT\Syncfusion.SfGauge.WinRT.xml">
+      <PackagePath>Syncfusion.SfGauge.WinRT\Syncfusion.SfGauge.WinRT.xml</PackagePath>
+      <Modified>2014-12-18T16:50:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfReportViewer.WinRT\Syncfusion.SfGauge.WinRT.xml">
+      <PackagePath>Syncfusion.SfReportViewer.WinRT\Syncfusion.SfGauge.WinRT.xml</PackagePath>
+      <Modified>2014-12-18T16:50:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfGauge.WinRT\Syncfusion.SfGauge.WinRT.xr.xml">
+      <PackagePath>Syncfusion.SfGauge.WinRT\Syncfusion.SfGauge.WinRT.xr.xml</PackagePath>
+      <Modified>2014-12-18T16:50:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfGrid.WinRT\Syncfusion.SfGrid.WinRT.xml">
+      <PackagePath>Syncfusion.SfGrid.WinRT\Syncfusion.SfGrid.WinRT.xml</PackagePath>
+      <Modified>2014-12-20T02:23:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfGrid.WinRT\Syncfusion.SfGrid.WinRT.xr.xml">
+      <PackagePath>Syncfusion.SfGrid.WinRT\Syncfusion.SfGrid.WinRT.xr.xml</PackagePath>
+      <Modified>2014-12-20T02:23:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfGridBase.WinRT\Syncfusion.SfGridBase.WinRT.xml">
+      <PackagePath>Syncfusion.SfGridBase.WinRT\Syncfusion.SfGridBase.WinRT.xml</PackagePath>
+      <Modified>2014-12-18T16:48:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfReportViewer.WinRT\Syncfusion.SfGridBase.WinRT.xml">
+      <PackagePath>Syncfusion.SfReportViewer.WinRT\Syncfusion.SfGridBase.WinRT.xml</PackagePath>
+      <Modified>2014-12-18T16:48:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfGridBase.WinRT\Syncfusion.SfGridBase.WinRT.xr.xml">
+      <PackagePath>Syncfusion.SfGridBase.WinRT\Syncfusion.SfGridBase.WinRT.xr.xml</PackagePath>
+      <Modified>2014-12-18T16:48:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfHubTile.WinRT\Syncfusion.SfHubTile.WinRT.xml">
+      <PackagePath>Syncfusion.SfHubTile.WinRT\Syncfusion.SfHubTile.WinRT.xml</PackagePath>
+      <Modified>2014-12-18T16:50:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfHubTile.WinRT\Syncfusion.SfHubTile.WinRT.xr.xml">
+      <PackagePath>Syncfusion.SfHubTile.WinRT\Syncfusion.SfHubTile.WinRT.xr.xml</PackagePath>
+      <Modified>2014-12-18T16:50:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfGrid.WinRT\Syncfusion.SfInput.WinRT.xml">
+      <PackagePath>Syncfusion.SfGrid.WinRT\Syncfusion.SfInput.WinRT.xml</PackagePath>
+      <Modified>2014-12-18T16:48:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfInput.WinRT\Syncfusion.SfInput.WinRT.xml">
+      <PackagePath>Syncfusion.SfInput.WinRT\Syncfusion.SfInput.WinRT.xml</PackagePath>
+      <Modified>2014-12-18T16:48:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfReportViewer.WinRT\Syncfusion.SfInput.WinRT.xml">
+      <PackagePath>Syncfusion.SfReportViewer.WinRT\Syncfusion.SfInput.WinRT.xml</PackagePath>
+      <Modified>2014-12-18T16:48:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfSchedule.WinRT\Syncfusion.SfInput.WinRT.xml">
+      <PackagePath>Syncfusion.SfSchedule.WinRT\Syncfusion.SfInput.WinRT.xml</PackagePath>
+      <Modified>2014-12-18T16:48:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfInput.WinRT\Syncfusion.SfInput.WinRT.xr.xml">
+      <PackagePath>Syncfusion.SfInput.WinRT\Syncfusion.SfInput.WinRT.xr.xml</PackagePath>
+      <Modified>2014-12-18T16:48:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfMaps.WinRT\Syncfusion.SfMaps.WinRT.xml">
+      <PackagePath>Syncfusion.SfMaps.WinRT\Syncfusion.SfMaps.WinRT.xml</PackagePath>
+      <Modified>2014-12-18T16:50:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfReportViewer.WinRT\Syncfusion.SfMaps.WinRT.xml">
+      <PackagePath>Syncfusion.SfReportViewer.WinRT\Syncfusion.SfMaps.WinRT.xml</PackagePath>
+      <Modified>2014-12-18T16:50:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfMaps.WinRT\Syncfusion.SfMaps.WinRT.xr.xml">
+      <PackagePath>Syncfusion.SfMaps.WinRT\Syncfusion.SfMaps.WinRT.xr.xml</PackagePath>
+      <Modified>2014-12-18T16:50:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfPdfViewer.WinRT\Syncfusion.SfPdfViewer.WinRT.xml">
+      <PackagePath>Syncfusion.SfPdfViewer.WinRT\Syncfusion.SfPdfViewer.WinRT.xml</PackagePath>
+      <Modified>2014-12-18T16:54:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfPdfViewer.WinRT\Syncfusion.SfPdfViewer.WinRT.xr.xml">
+      <PackagePath>Syncfusion.SfPdfViewer.WinRT\Syncfusion.SfPdfViewer.WinRT.xr.xml</PackagePath>
+      <Modified>2014-12-18T16:54:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfColorPickers.WinRT\Syncfusion.SfRadialMenu.WinRT.xml">
+      <PackagePath>Syncfusion.SfColorPickers.WinRT\Syncfusion.SfRadialMenu.WinRT.xml</PackagePath>
+      <Modified>2014-12-18T16:51:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfRadialMenu.WinRT\Syncfusion.SfRadialMenu.WinRT.xml">
+      <PackagePath>Syncfusion.SfRadialMenu.WinRT\Syncfusion.SfRadialMenu.WinRT.xml</PackagePath>
+      <Modified>2014-12-18T16:51:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfRichTextBoxAdv.WinRT\Syncfusion.SfRadialMenu.WinRT.xml">
+      <PackagePath>Syncfusion.SfRichTextBoxAdv.WinRT\Syncfusion.SfRadialMenu.WinRT.xml</PackagePath>
+      <Modified>2014-12-18T16:51:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfSchedule.WinRT\Syncfusion.SfRadialMenu.WinRT.xml">
+      <PackagePath>Syncfusion.SfSchedule.WinRT\Syncfusion.SfRadialMenu.WinRT.xml</PackagePath>
+      <Modified>2014-12-18T16:51:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfRadialMenu.WinRT\Syncfusion.SfRadialMenu.WinRT.xr.xml">
+      <PackagePath>Syncfusion.SfRadialMenu.WinRT\Syncfusion.SfRadialMenu.WinRT.xr.xml</PackagePath>
+      <Modified>2014-12-18T16:51:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfReportViewer.WinRT\Syncfusion.SfReportViewer.WinRT.xml">
+      <PackagePath>Syncfusion.SfReportViewer.WinRT\Syncfusion.SfReportViewer.WinRT.xml</PackagePath>
+      <Modified>2014-12-18T16:53:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfReportViewer.WinRT\Syncfusion.SfReportViewer.WinRT.xr.xml">
+      <PackagePath>Syncfusion.SfReportViewer.WinRT\Syncfusion.SfReportViewer.WinRT.xr.xml</PackagePath>
+      <Modified>2014-12-18T16:53:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfRibbon.WinRT\Syncfusion.SfRibbon.WinRT.xml">
+      <PackagePath>Syncfusion.SfRibbon.WinRT\Syncfusion.SfRibbon.WinRT.xml</PackagePath>
+      <Modified>2014-12-18T16:54:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfRibbon.WinRT\Syncfusion.SfRibbon.WinRT.xr.xml">
+      <PackagePath>Syncfusion.SfRibbon.WinRT\Syncfusion.SfRibbon.WinRT.xr.xml</PackagePath>
+      <Modified>2014-12-18T16:54:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfRichTextBoxAdv.WinRT\Syncfusion.SfRichTextBoxAdv.WinRT.xml">
+      <PackagePath>Syncfusion.SfRichTextBoxAdv.WinRT\Syncfusion.SfRichTextBoxAdv.WinRT.xml</PackagePath>
+      <Modified>2014-12-22T01:53:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfRichTextBoxAdv.WinRT\Syncfusion.SfRichTextBoxAdv.WinRT.xr.xml">
+      <PackagePath>Syncfusion.SfRichTextBoxAdv.WinRT\Syncfusion.SfRichTextBoxAdv.WinRT.xr.xml</PackagePath>
+      <Modified>2014-12-22T01:52:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfSchedule.WinRT\Syncfusion.SfSchedule.WinRT.xml">
+      <PackagePath>Syncfusion.SfSchedule.WinRT\Syncfusion.SfSchedule.WinRT.xml</PackagePath>
+      <Modified>2014-12-18T16:53:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfSchedule.WinRT\Syncfusion.SfSchedule.WinRT.xr.xml">
+      <PackagePath>Syncfusion.SfSchedule.WinRT\Syncfusion.SfSchedule.WinRT.xr.xml</PackagePath>
+      <Modified>2014-12-18T16:53:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfAccordion.WinRT\Syncfusion.SfShared.WinRT.xml">
+      <PackagePath>Syncfusion.SfAccordion.WinRT\Syncfusion.SfShared.WinRT.xml</PackagePath>
+      <Modified>2014-12-18T16:47:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfBusyIndicator.WinRT\Syncfusion.SfShared.WinRT.xml">
+      <PackagePath>Syncfusion.SfBusyIndicator.WinRT\Syncfusion.SfShared.WinRT.xml</PackagePath>
+      <Modified>2014-12-18T16:47:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfCarousel.WinRT\Syncfusion.SfShared.WinRT.xml">
+      <PackagePath>Syncfusion.SfCarousel.WinRT\Syncfusion.SfShared.WinRT.xml</PackagePath>
+      <Modified>2014-12-18T16:47:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfColorPickers.WinRT\Syncfusion.SfShared.WinRT.xml">
+      <PackagePath>Syncfusion.SfColorPickers.WinRT\Syncfusion.SfShared.WinRT.xml</PackagePath>
+      <Modified>2014-12-18T16:47:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfGrid.WinRT\Syncfusion.SfShared.WinRT.xml">
+      <PackagePath>Syncfusion.SfGrid.WinRT\Syncfusion.SfShared.WinRT.xml</PackagePath>
+      <Modified>2014-12-18T16:47:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfHubTile.WinRT\Syncfusion.SfShared.WinRT.xml">
+      <PackagePath>Syncfusion.SfHubTile.WinRT\Syncfusion.SfShared.WinRT.xml</PackagePath>
+      <Modified>2014-12-18T16:47:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfInput.WinRT\Syncfusion.SfShared.WinRT.xml">
+      <PackagePath>Syncfusion.SfInput.WinRT\Syncfusion.SfShared.WinRT.xml</PackagePath>
+      <Modified>2014-12-18T16:47:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfRadialMenu.WinRT\Syncfusion.SfShared.WinRT.xml">
+      <PackagePath>Syncfusion.SfRadialMenu.WinRT\Syncfusion.SfShared.WinRT.xml</PackagePath>
+      <Modified>2014-12-18T16:47:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfReportViewer.WinRT\Syncfusion.SfShared.WinRT.xml">
+      <PackagePath>Syncfusion.SfReportViewer.WinRT\Syncfusion.SfShared.WinRT.xml</PackagePath>
+      <Modified>2014-12-18T16:47:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfRichTextBoxAdv.WinRT\Syncfusion.SfShared.WinRT.xml">
+      <PackagePath>Syncfusion.SfRichTextBoxAdv.WinRT\Syncfusion.SfShared.WinRT.xml</PackagePath>
+      <Modified>2014-12-18T16:47:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfSchedule.WinRT\Syncfusion.SfShared.WinRT.xml">
+      <PackagePath>Syncfusion.SfSchedule.WinRT\Syncfusion.SfShared.WinRT.xml</PackagePath>
+      <Modified>2014-12-18T16:47:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfShared.WinRT\Syncfusion.SfShared.WinRT.xml">
+      <PackagePath>Syncfusion.SfShared.WinRT\Syncfusion.SfShared.WinRT.xml</PackagePath>
+      <Modified>2014-12-18T16:47:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfTabControl.WinRT\Syncfusion.SfShared.WinRT.xml">
+      <PackagePath>Syncfusion.SfTabControl.WinRT\Syncfusion.SfShared.WinRT.xml</PackagePath>
+      <Modified>2014-12-18T16:47:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfTileView.WinRT\Syncfusion.SfShared.WinRT.xml">
+      <PackagePath>Syncfusion.SfTileView.WinRT\Syncfusion.SfShared.WinRT.xml</PackagePath>
+      <Modified>2014-12-18T16:47:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfTreeNavigator.WinRT\Syncfusion.SfShared.WinRT.xml">
+      <PackagePath>Syncfusion.SfTreeNavigator.WinRT\Syncfusion.SfShared.WinRT.xml</PackagePath>
+      <Modified>2014-12-18T16:47:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfShared.WinRT\Syncfusion.SfShared.WinRT.xr.xml">
+      <PackagePath>Syncfusion.SfShared.WinRT\Syncfusion.SfShared.WinRT.xr.xml</PackagePath>
+      <Modified>2014-12-18T16:47:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfTabControl.WinRT\Syncfusion.SfTabControl.WinRT.xml">
+      <PackagePath>Syncfusion.SfTabControl.WinRT\Syncfusion.SfTabControl.WinRT.xml</PackagePath>
+      <Modified>2014-12-18T16:51:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfTabControl.WinRT\Syncfusion.SfTabControl.WinRT.xr.xml">
+      <PackagePath>Syncfusion.SfTabControl.WinRT\Syncfusion.SfTabControl.WinRT.xr.xml</PackagePath>
+      <Modified>2014-12-18T16:51:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfTileView.WinRT\Syncfusion.SfTileView.WinRT.xml">
+      <PackagePath>Syncfusion.SfTileView.WinRT\Syncfusion.SfTileView.WinRT.xml</PackagePath>
+      <Modified>2014-12-18T16:51:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfTileView.WinRT\Syncfusion.SfTileView.WinRT.xr.xml">
+      <PackagePath>Syncfusion.SfTileView.WinRT\Syncfusion.SfTileView.WinRT.xr.xml</PackagePath>
+      <Modified>2014-12-18T16:51:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfTreeMap.WinRT\Syncfusion.SfTreeMap.WinRT.xml">
+      <PackagePath>Syncfusion.SfTreeMap.WinRT\Syncfusion.SfTreeMap.WinRT.xml</PackagePath>
+      <Modified>2014-12-18T16:53:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfTreeMap.WinRT\Syncfusion.SfTreeMap.WinRT.xr.xml">
+      <PackagePath>Syncfusion.SfTreeMap.WinRT\Syncfusion.SfTreeMap.WinRT.xr.xml</PackagePath>
+      <Modified>2014-12-18T16:53:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfReportViewer.WinRT\Syncfusion.SfTreeNavigator.WinRT.xml">
+      <PackagePath>Syncfusion.SfReportViewer.WinRT\Syncfusion.SfTreeNavigator.WinRT.xml</PackagePath>
+      <Modified>2014-12-18T16:52:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfTreeNavigator.WinRT\Syncfusion.SfTreeNavigator.WinRT.xml">
+      <PackagePath>Syncfusion.SfTreeNavigator.WinRT\Syncfusion.SfTreeNavigator.WinRT.xml</PackagePath>
+      <Modified>2014-12-18T16:52:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfTreeNavigator.WinRT\Syncfusion.SfTreeNavigator.WinRT.xr.xml">
+      <PackagePath>Syncfusion.SfTreeNavigator.WinRT\Syncfusion.SfTreeNavigator.WinRT.xr.xml</PackagePath>
+      <Modified>2014-12-18T16:52:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Syncfusion\Essential Studio\12.4.0.24\WinRT\8.1\SDK\Redist\CommonConfiguration\neutral\Syncfusion.SfReportViewer.WinRT\Syncfusion.XlsIO.WinRT.xml">
+      <PackagePath>Syncfusion.SfReportViewer.WinRT\Syncfusion.XlsIO.WinRT.xml</PackagePath>
+      <Modified>2014-12-18T16:51:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\New Folder\MrFrozo\MrFrozo\Animals\cat.jpg">
+      <PackagePath>Animals\cat.jpg</PackagePath>
+      <Modified>2014-04-09T02:42:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\New Folder\MrFrozo\MrFrozo\Animals\chick.jpg">
+      <PackagePath>Animals\chick.jpg</PackagePath>
+      <Modified>2014-04-09T02:42:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\New Folder\MrFrozo\MrFrozo\Animals\cow.jpg">
+      <PackagePath>Animals\cow.jpg</PackagePath>
+      <Modified>2014-04-09T02:42:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\New Folder\MrFrozo\MrFrozo\Animals\dog.jpg">
+      <PackagePath>Animals\dog.jpg</PackagePath>
+      <Modified>2014-04-09T02:42:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\New Folder\MrFrozo\MrFrozo\Animals\elephant.jpg">
+      <PackagePath>Animals\elephant.jpg</PackagePath>
+      <Modified>2014-04-09T02:42:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\New Folder\MrFrozo\MrFrozo\Animals\fox.jpg">
+      <PackagePath>Animals\fox.jpg</PackagePath>
+      <Modified>2014-04-04T00:45:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\New Folder\MrFrozo\MrFrozo\Animals\girrafe.jpg">
+      <PackagePath>Animals\girrafe.jpg</PackagePath>
+      <Modified>2014-04-09T02:42:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\New Folder\MrFrozo\MrFrozo\Animals\goat.jpg">
+      <PackagePath>Animals\goat.jpg</PackagePath>
+      <Modified>2014-04-09T02:42:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\New Folder\MrFrozo\MrFrozo\Animals\cock.jpg">
+      <PackagePath>Animals\cock.jpg</PackagePath>
+      <Modified>2014-04-09T02:42:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\New Folder\MrFrozo\MrFrozo\Animals\hyena.jpg">
+      <PackagePath>Animals\hyena.jpg</PackagePath>
+      <Modified>2014-04-09T02:42:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\New Folder\MrFrozo\MrFrozo\Animals\leopard.jpg">
+      <PackagePath>Animals\leopard.jpg</PackagePath>
+      <Modified>2014-04-09T02:42:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\New Folder\MrFrozo\MrFrozo\Animals\lion.jpg">
+      <PackagePath>Animals\lion.jpg</PackagePath>
+      <Modified>2014-04-09T02:42:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\New Folder\MrFrozo\MrFrozo\Animals\pig.jpg">
+      <PackagePath>Animals\pig.jpg</PackagePath>
+      <Modified>2014-04-09T02:42:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\New Folder\MrFrozo\MrFrozo\Animals\rhino.jpg">
+      <PackagePath>Animals\rhino.jpg</PackagePath>
+      <Modified>2014-04-09T02:42:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\New Folder\MrFrozo\MrFrozo\Animals\sheep.jpg">
+      <PackagePath>Animals\sheep.jpg</PackagePath>
+      <Modified>2014-04-09T02:42:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\New Folder\MrFrozo\MrFrozo\Animals\squirrel.jpg">
+      <PackagePath>Animals\squirrel.jpg</PackagePath>
+      <Modified>2014-04-09T02:42:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\New Folder\MrFrozo\MrFrozo\Animals\tiger.jpg">
+      <PackagePath>Animals\tiger.jpg</PackagePath>
+      <Modified>2014-04-09T02:42:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\New Folder\MrFrozo\MrFrozo\Animals\zebra.jpg">
+      <PackagePath>Animals\zebra.jpg</PackagePath>
+      <Modified>2014-04-09T02:42:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\New Folder\MrFrozo\MrFrozo\people\boy.jpg">
+      <PackagePath>people\boy.jpg</PackagePath>
+      <Modified>2014-04-09T02:42:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\New Folder\MrFrozo\MrFrozo\people\girl.jpg">
+      <PackagePath>people\girl.jpg</PackagePath>
+      <Modified>2014-04-09T02:42:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\New Folder\MrFrozo\MrFrozo\Signs\bicycle sign.jpg">
+      <PackagePath>Signs\bicycle sign.jpg</PackagePath>
+      <Modified>2014-04-09T02:42:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\New Folder\MrFrozo\MrFrozo\Signs\bumps ahead.jpg">
+      <PackagePath>Signs\bumps ahead.jpg</PackagePath>
+      <Modified>2014-04-09T02:42:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\New Folder\MrFrozo\MrFrozo\Signs\children crossing sign.jpg">
+      <PackagePath>Signs\children crossing sign.jpg</PackagePath>
+      <Modified>2014-04-09T02:42:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\New Folder\MrFrozo\MrFrozo\Signs\pedestrian crossing ahead.jpg">
+      <PackagePath>Signs\pedestrian crossing ahead.jpg</PackagePath>
+      <Modified>2014-04-09T02:42:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\New Folder\MrFrozo\MrFrozo\Signs\railway station.jpg">
+      <PackagePath>Signs\railway station.jpg</PackagePath>
+      <Modified>2014-04-09T02:42:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\New Folder\MrFrozo\MrFrozo\Vehicles\bicycle.jpg">
+      <PackagePath>Vehicles\bicycle.jpg</PackagePath>
+      <Modified>2014-04-09T02:46:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\New Folder\MrFrozo\MrFrozo\Vehicles\bike.jpg">
+      <PackagePath>Vehicles\bike.jpg</PackagePath>
+      <Modified>2014-04-09T02:46:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\New Folder\MrFrozo\MrFrozo\Vehicles\bus.jpg">
+      <PackagePath>Vehicles\bus.jpg</PackagePath>
+      <Modified>2014-04-09T02:46:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\New Folder\MrFrozo\MrFrozo\Vehicles\car.jpg">
+      <PackagePath>Vehicles\car.jpg</PackagePath>
+      <Modified>2014-04-09T02:51:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\New Folder\MrFrozo\MrFrozo\Vehicles\plane.jpg">
+      <PackagePath>Vehicles\plane.jpg</PackagePath>
+      <Modified>2014-04-09T02:47:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\New Folder\MrFrozo\MrFrozo\Vehicles\ship.jpg">
+      <PackagePath>Vehicles\ship.jpg</PackagePath>
+      <Modified>2014-04-09T02:47:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\New Folder\MrFrozo\MrFrozo\Vehicles\train.jpg">
+      <PackagePath>Vehicles\train.jpg</PackagePath>
+      <Modified>2014-04-09T02:47:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\New Folder\MrFrozo\MrFrozo\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-22T17:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\New Folder\MrFrozo\MrFrozo\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-22T17:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\New Folder\MrFrozo\MrFrozo\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-22T17:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\New Folder\MrFrozo\MrFrozo\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-22T17:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-04-08T22:01:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\MyResources.xbf">
+      <PackagePath>MyResources.xbf</PackagePath>
+      <Modified>2014-04-09T04:30:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Pages\EngGrammar.xbf">
+      <PackagePath>Pages\EngGrammar.xbf</PackagePath>
+      <Modified>2014-04-09T04:51:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Pages\EnglishPage.xbf">
+      <PackagePath>Pages\EnglishPage.xbf</PackagePath>
+      <Modified>2014-04-09T04:57:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Pages\EngPuzzle.xbf">
+      <PackagePath>Pages\EngPuzzle.xbf</PackagePath>
+      <Modified>2014-04-08T22:01:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Pages\MainPage.xbf">
+      <PackagePath>Pages\MainPage.xbf</PackagePath>
+      <Modified>2014-04-08T22:01:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Pages\MathAdditionPage.xbf">
+      <PackagePath>Pages\MathAdditionPage.xbf</PackagePath>
+      <Modified>2014-04-09T04:51:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Pages\MathPage.xbf">
+      <PackagePath>Pages\MathPage.xbf</PackagePath>
+      <Modified>2014-04-08T22:01:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Pages\MathPuzzle.xbf">
+      <PackagePath>Pages\MathPuzzle.xbf</PackagePath>
+      <Modified>2014-04-08T22:01:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Pages\MathSubtractionPage.xbf">
+      <PackagePath>Pages\MathSubtractionPage.xbf</PackagePath>
+      <Modified>2014-04-08T22:01:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Pages\WelcomePage.xbf">
+      <PackagePath>Pages\WelcomePage.xbf</PackagePath>
+      <Modified>2014-04-08T22:01:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\MrFrozo.xr.xml">
+      <PackagePath>MrFrozo.xr.xml</PackagePath>
+      <Modified>2014-10-19T05:53:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-03-14T13:08:05.646</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

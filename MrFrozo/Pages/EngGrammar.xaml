@@ -1,0 +1,185 @@
+﻿<Page
+    x:Name="pageRoot"
+    x:Class="MrFrozo.EngGrammar"
+    DataContext="{Binding DefaultViewModel, RelativeSource={RelativeSource Self}}"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:MrFrozo.Pages"
+    xmlns:common="using:MrFrozo.Common"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" Loaded="pageRoot_Loaded">
+
+    <Page.Resources>
+        <!-- TODO: Delete this line if the key AppName is declared in App.xaml -->
+        <x:String x:Key="AppName">Grammar Practice</x:String>
+    </Page.Resources>
+
+    <!--
+        This grid acts as a root panel for the page that defines two rows:
+        * Row 0 contains the back button and page title
+        * Row 1 contains the rest of the page layout
+    -->
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Grid.ChildrenTransitions>
+            <TransitionCollection>
+                <EntranceThemeTransition/>
+            </TransitionCollection>
+        </Grid.ChildrenTransitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="140"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Back button and page title -->
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <TextBlock x:Name="pageTitle" Text="{StaticResource AppName}" Style="{StaticResource HeaderTextBlockStyle}" Grid.Column="1" 
+                        IsHitTestVisible="false" TextWrapping="NoWrap" VerticalAlignment="Bottom" Margin="0,0,30,40" 
+                       HorizontalAlignment="Center" FontSize="80" FontFamily="Buxton Sketch"/>
+        </Grid>
+
+        <Grid Grid.Row="1" HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="2*"/>
+                <ColumnDefinition Width="2*"/>
+                <ColumnDefinition Width="2*"/>
+                <ColumnDefinition Width="2*"/>
+                <ColumnDefinition Width="2*"/>
+                <ColumnDefinition Width="2*"/>
+            </Grid.ColumnDefinitions>
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="auto"/>
+            </Grid.RowDefinitions>
+            
+            <ListView x:Name="lstAnswers" Grid.Row="0" Grid.Column="0" Grid.RowSpan="3" Margin="4" Background="LightBlue" Foreground="DarkGreen" DragItemsStarting="lstAnswers_DragItemsStarting" SelectionMode="None" CanDragItems="True" FontFamily="Buxton Sketch"/>
+            
+            <StackPanel Grid.Row="0" Grid.Column="1" Margin="5">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="auto"/>
+                    </Grid.RowDefinitions>
+
+                    <Image Grid.Row="0" x:Name="img1" Margin="3" AllowDrop="True" Drop="img1_Drop"/>
+                    <TextBox Grid.Row="1" x:Name="txt1" Margin="3" AllowDrop="True" Drop="txt1_Drop" FontFamily="Buxton Sketch" TextChanged="txt1_TextChanged"/>
+                </Grid>
+            </StackPanel>
+
+            <StackPanel Grid.Row="0" Grid.Column="2" Margin="5">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="auto"/>
+                    </Grid.RowDefinitions>
+
+                    <Image Grid.Row="0" x:Name="img2" Margin="3" AllowDrop="True" Drop="img2_Drop"/>
+                    <TextBox Grid.Row="1" x:Name="txt2" Margin="3" AllowDrop="True" Drop="txt2_Drop" FontFamily="Buxton Sketch" TextChanged="txt2_TextChanged"/>
+                </Grid>
+            </StackPanel>
+
+            <StackPanel Grid.Row="0" Grid.Column="3" Margin="5">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="auto"/>
+                    </Grid.RowDefinitions>
+
+                    <Image Grid.Row="0" x:Name="img3" Margin="3" AllowDrop="True" Drop="img3_Drop"/>
+                    <TextBox Grid.Row="1" x:Name="txt3" Margin="3" AllowDrop="True" Drop="txt3_Drop" FontFamily="Buxton Sketch" TextChanged="txt3_TextChanged"/>
+                </Grid>
+            </StackPanel>
+
+            <StackPanel Grid.Row="0" Grid.Column="4" Margin="5">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="auto"/>
+                    </Grid.RowDefinitions>
+
+                    <Image Grid.Row="0" x:Name="img4" Margin="3" AllowDrop="True" Drop="img4_Drop"/>
+                    <TextBox Grid.Row="1" x:Name="txt4" Margin="3" AllowDrop="True" Drop="txt4_Drop" FontFamily="Buxton Sketch" TextChanged="txt4_TextChanged"/>
+                </Grid>
+            </StackPanel>
+
+            <StackPanel Grid.Row="0" Grid.Column="5" Margin="5">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="auto"/>
+                    </Grid.RowDefinitions>
+
+                    <Image Grid.Row="0" x:Name="img5" Margin="3" AllowDrop="True" Drop="img5_Drop"/>
+                    <TextBox Grid.Row="1" x:Name="txt5" Margin="3" AllowDrop="True" Drop="txt5_Drop" FontFamily="Buxton Sketch" TextChanged="txt5_TextChanged"/>
+                </Grid>
+            </StackPanel>
+
+            <StackPanel Grid.Row="1" Grid.Column="1" Margin="5">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="auto"/>
+                    </Grid.RowDefinitions>
+
+                    <Image Grid.Row="0" x:Name="img6" Margin="3" AllowDrop="True" Drop="img6_Drop"/>
+                    <TextBox Grid.Row="1" x:Name="txt6" Margin="3" AllowDrop="True" Drop="txt6_Drop" FontFamily="Buxton Sketch" TextChanged="txt6_TextChanged"/>
+                </Grid>
+            </StackPanel>
+
+            <StackPanel Grid.Row="1" Grid.Column="2" Margin="5">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="auto"/>
+                    </Grid.RowDefinitions>
+
+                    <Image Grid.Row="0" x:Name="img7" Margin="3" AllowDrop="True" Drop="img7_Drop"/>
+                    <TextBox Grid.Row="1" x:Name="txt7" Margin="3" AllowDrop="True" Drop="txt7_Drop" FontFamily="Buxton Sketch" TextChanged="txt7_TextChanged"/>
+                </Grid>
+            </StackPanel>
+
+            <StackPanel Grid.Row="1" Grid.Column="3" Margin="5">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="auto"/>
+                    </Grid.RowDefinitions>
+
+                    <Image Grid.Row="0" x:Name="img8" Margin="3" AllowDrop="True" Drop="img8_Drop"/>
+                    <TextBox Grid.Row="1" x:Name="txt8" Margin="3" AllowDrop="True" Drop="txt8_Drop" FontFamily="Buxton Sketch" TextChanged="txt8_TextChanged"/>
+                </Grid>
+            </StackPanel>
+
+            <StackPanel Grid.Row="1" Grid.Column="4" Margin="5">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="auto"/>
+                    </Grid.RowDefinitions>
+
+                    <Image Grid.Row="0" x:Name="img9" Margin="3" AllowDrop="True" Drop="img9_Drop"/>
+                    <TextBox Grid.Row="1" x:Name="txt9" Margin="3" AllowDrop="True" Drop="txt9_Drop" FontFamily="Buxton Sketch" TextChanged="txt9_TextChanged"/>
+                </Grid>
+            </StackPanel>
+
+            <StackPanel Grid.Row="1" Grid.Column="5" Margin="5">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="auto"/>
+                    </Grid.RowDefinitions>
+
+                    <Image Grid.Row="0" x:Name="img10" Margin="3" AllowDrop="True" Drop="img10_Drop"/>
+                    <TextBox Grid.Row="1" x:Name="txt10" Margin="3" AllowDrop="True" Drop="txt10_Drop" FontFamily="Buxton Sketch" TextChanged="txt10_TextChanged"/>
+                </Grid>
+            </StackPanel>
+            
+            <Button x:Name="btnFinish" Content="Finish" Grid.Row="2" Grid.Column="5" HorizontalAlignment="Right" Margin="5" Style="{StaticResource ButtonStyle}" Click="btnFinish_Click"/>
+        </Grid>
+    </Grid>
+</Page>

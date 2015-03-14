@@ -1,0 +1,1547 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Syncfusion.SfDiagram.WinRT</name>
+    </assembly>
+    <members>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.IDiagramCommands.Group">
+            <summary>
+            Group Command
+            </summary>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.IDiagramCommands.UnGroup">
+            <summary>
+            UnGroup Command
+            </summary>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.IDiagramCommands.SameSize">
+            <summary>
+            SameSize Command
+            </summary>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.IDiagramCommands.SameHeight">
+            <summary>
+            SameHeight Command
+            </summary>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.IDiagramCommands.SameWidth">
+            <summary>
+            SameWidth Command
+            </summary>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.IDiagramCommands.AlignBottom">
+            <summary>
+            AlignBottom Command
+            </summary>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.IDiagramCommands.AlignTop">
+            <summary>
+            AlignTop Command
+            </summary>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.IDiagramCommands.AlignLeft">
+            <summary>
+            AlignLeft Command
+            </summary>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.IDiagramCommands.AlignCenter">
+            <summary>
+            AlignCenter Command
+            </summary>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.IDiagramCommands.AlignRight">
+            <summary>
+            AlignRight Command
+            </summary>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.IDiagramCommands.AlignMiddle">
+            <summary>
+            AlignMiddle Command
+            </summary>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.IDiagramCommands.SpaceAcross">
+            <summary>
+            SpaceAcross Command
+            </summary>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.IDiagramCommands.SpaceDown">
+            <summary>
+            SpaceDown Command
+            </summary>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.IDiagramCommands.SendToBack">
+            <summary>
+            SendToBack Command
+            </summary>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.IDiagramCommands.SendBackward">
+            <summary>
+            SendBackward Command
+            </summary>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.IDiagramCommands.BringToFront">
+            <summary>
+            BringToFront Command
+            </summary>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.IDiagramCommands.BringForward">
+            <summary>
+            BringForward Command
+            </summary>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.IDiagramCommands.MoveDown">
+            <summary>
+            MoveDown Command
+            </summary>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.IDiagramCommands.MoveUp">
+            <summary>
+            MoveDown Command
+            </summary>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.IDiagramCommands.MoveLeft">
+            <summary>
+            MoveDown Command
+            </summary>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.IDiagramCommands.MoveRight">
+            <summary>
+            MoveDown Command
+            </summary>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.IDiagramCommands.Cut">
+            <summary>
+            Cut Command
+            </summary>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.IDiagramCommands.Copy">
+            <summary>
+            Copy Command
+            </summary>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.IDiagramCommands.Paste">
+            <summary>
+            Paste Command
+            </summary>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.IDiagramCommands.Delete">
+            <summary>
+            Delete Command
+            </summary>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.IDiagramCommands.Draw">
+            <summary>
+            Draw Command
+            </summary>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.IDiagramCommands.Flip">
+            <summary>
+            Flip Command
+            </summary>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.IDiagramCommands.FitToPage">
+            <summary>
+            FitToPage Command
+            </summary>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.IDiagramCommands.Duplicate">
+            <summary>
+            Duplicate Command
+            </summary>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.DiagramCommands.OnMoveUpCommand(System.Object)">
+            <summary>
+            Invoked when the MoveUp Command is executed.
+            </summary>
+            <param name="sender">object, the change occurs on.</param>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.DiagramCommands.OnMoveDownCommand(System.Object)">
+            <summary>
+            Invoked when the MoveDown Command is executed.
+            </summary>
+            <param name="sender">object, the change occurs on.</param>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.DiagramCommands.OnMoveLeftCommand(System.Object)">
+            <summary>
+            Invoked when the MoveLeft Command is executed.
+            </summary>
+            <param name="sender">object, the change occurs on.</param>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.DiagramCommands.OnMoveRightCommand(System.Object)">
+            <summary>
+            Invoked when the MoveRight Command is executed.
+            </summary>
+            <param name="sender">object, the change occurs on.</param>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.DiagramCommands.OnGroupCommand(System.Object)">
+            <summary>
+            Invoked when the GroupNodes Command is executed.
+            </summary>
+            <param name="sender">The DiagramView.</param>        
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.DiagramCommands.OnUnGroupCommand(System.Object)">
+            <summary>
+            Invoked when the UnGroupNodes Command is executed.
+            </summary>
+            <param name="sender">The DiagramView.</param>        
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.DiagramCommands.OnSameSizeCommand(System.Object)">
+            <summary>
+            Invoked when the SameSize Command is executed.
+            </summary>
+            <param name="sender">The DiagramView.</param>        
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.DiagramCommands.OnSameWidthCommand(System.Object)">
+            <summary>
+            Invoked when the SameWidth Command is executed.
+            </summary>
+            <param name="sender">The DiagramView.</param>        
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.DiagramCommands.OnSameHeightCommand(System.Object)">
+            <summary>
+            Invoked when the SameHeight Command is executed.
+            </summary>
+            <param name="sender">The DiagramView.</param>        
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.DiagramCommands.OnSpaceDownCommand(System.Object)">
+            <summary>
+            Invoked when the SpaceDown Command is executed.
+            </summary>
+            <param name="sender">The DiagramView.</param>        
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.DiagramCommands.OnSpaceAcrossCommand(System.Object)">
+            <summary>
+            Invoked when the SpaceAcross Command is executed.
+            </summary>
+            <param name="sender">The DiagramView.</param>        
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.DiagramCommands.OnAlignLeftCommand(System.Object)">
+            <summary>
+            Invoked when the AlignLeft Command is executed.
+            </summary>
+            <param name="sender">The DiagramView.</param>        
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.DiagramCommands.OnAlignCenterCommand(System.Object)">
+            <summary>
+            Invoked when the AlignCenter Command is executed.
+            </summary>
+            <param name="sender">The DiagramView.</param>        
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.DiagramCommands.OnAlignRightCommand(System.Object)">
+            <summary>
+            Invoked when the AlignRight Command is executed.
+            </summary>
+            <param name="sender">The DiagramView.</param>        
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.DiagramCommands.OnAlignTopCommand(System.Object)">
+            <summary>
+            Invoked when the AlignTop Command is executed.
+            </summary>
+            <param name="sender">The DiagramView.</param>        
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.DiagramCommands.OnAlignMiddleCommand(System.Object)">
+            <summary>
+            Invoked when the AlignMiddle Command is executed.
+            </summary>
+            <param name="sender">The DiagramView.</param>        
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.DiagramCommands.OnAlignBottomCommand(System.Object)">
+            <summary>
+            Invoked when the AlignBottom Command is executed.
+            </summary>
+            <param name="sender">The DiagramView.</param>        
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.DiagramCommands.OnBringToFrontCommand(System.Object)">
+            <summary>
+            Invoked when the BringToFront Command is executed.
+            </summary>
+            <param name="sender">object, the change occurs on.</param>      
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.DiagramCommands.OnSendToBackCommand(System.Object)">
+            <summary>
+            Invoked when the SendToBack Command is executed.
+            </summary>
+            <param name="sender">object, the change occurs on.</param>      
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.DiagramCommands.OnBringForwardCommand(System.Object)">
+            <summary>
+            Invoked when the MoveForward Command is executed.
+            </summary>
+            <param name="sender">object, the change occurs on.</param>      
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.DiagramCommands.OnSendBackwardCommand(System.Object)">
+            <summary>
+            Invoked when the SendBackward Command is executed.
+            </summary>
+            <param name="sender">object, the change occurs on.</param>      
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.Controller.ExportController.Export(Syncfusion.UI.Xaml.Diagram.ExportSettings)">
+            <summary>
+            Export the Sfdiagram as single Image when the ImageStretch is Stretch
+            </summary>
+            <param name="Settings"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.Controller.ExportController.CommonExport(Syncfusion.UI.Xaml.Diagram.ExportSettings,Windows.Foundation.Rect)">
+            <summary>
+            Common funtion for exporting Sfdiagram into Single Page and Multiple Page
+            </summary>
+            <param name="Settings"></param>
+            <param name="bounds"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.Controller.ExportController.Export(Syncfusion.UI.Xaml.Diagram.ExportSettings,System.Int32,System.Int32)">
+            <summary>
+            Used to Export the SfDiagram as Image based on the Current PageNumber when the ImageStretch is None
+            </summary>
+            <param name="Settings"></param>
+            <param name="CurrentPagenumber"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.Controls.Ruler.#ctor">
+            <summary>
+            Initializes a new instances of the <see cref="T:Syncfusion.UI.Xaml.Diagram.Controls.Ruler"/> class. 
+            </summary>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.Controls.Ruler.GetNewSegment">
+            <summary>
+            To define custom ruler segment
+            </summary>
+            <returns>return new ruler segment</returns>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.Controls.Ruler.Orientation">
+            <summary>
+            Gets or sets the ruler orientation
+            </summary>
+            <value>
+            Type: <see cref="P:Syncfusion.UI.Xaml.Diagram.Controls.Ruler.Orientation"/>
+            </value>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.Controls.Ruler.Offset">
+            <summary>
+            Gets or sets the Offset value
+            </summary>
+            <value>
+            Type: <see cref="T:System.Double"/>
+            </value>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.Controls.Ruler.Scale">
+            <summary>
+            Gets or sets the scale value
+            </summary>
+            <value>
+            Type: <see cref="T:System.Double"/>
+            </value>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.Controls.Ruler.Thickness">
+            <summary>
+            Gets or sets the thickness of ruler
+            </summary>
+            <value>
+            Type: <see cref="T:System.Double"/>
+            </value>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.Controls.RulerSegment.#ctor">
+            <summary>
+            Initializes a new instances of the <see cref="T:Syncfusion.UI.Xaml.Diagram.Controls.RulerSegment"/> class. 
+            </summary>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.Controls.RulerSegment.GetSegmentWidth">
+            <summary>
+            To gets the width of each ruler segment
+            </summary>
+            <returns>Returns width of the ruler segment</returns>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.Controls.RulerSegment.UpdateLabel(Windows.UI.Xaml.Controls.TextBlock)">
+            <summary>
+            To define the label position
+            </summary>
+            <param name="segmentWidth">Width of the current segment</param>
+            <param name="segmentHeight">Thickness of the ruler</param>
+            <param name="label">Label for current ruler segment</param>
+            <returns>Returns the label position</returns>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.Controls.RulerSegment.GetNewTick">
+            <summary>
+            To define custom ticks
+            </summary>
+            <returns>Returns new tick</returns>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.Controls.RulerSegment.Ruler">
+            <summary>
+            Gets the ruler to which the segment is added.
+            </summary>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.Controls.RulerSegment.SegmentWidth">
+            <summary>
+            Gets the segment width of each ruler segments.
+            </summary>
+            <value>
+            Type: <see cref="T:System.Double"/>
+            </value>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.Controls.RulerSegment.StartValue">
+            <summary>
+            Gets the start value for each segments.
+            </summary>
+            <value>
+            Type: <see cref="T:System.Double"/>
+            </value>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.Controls.Tick.ArrangeTick(System.Double@,System.Double@,Syncfusion.UI.Xaml.Diagram.Controls.TickAlignment@)">
+            <summary>
+            To update the ticks values start value, length, alignment
+            </summary>
+            <param name="start">Start value</param>
+            <param name="length">Length of the tick</param>
+            <param name="align">Alignment of the tick</param>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.Controls.Tick.UpdateLine(Windows.UI.Xaml.Shapes.Line)">
+            <summary>
+            To update the appearance of the ticks
+            </summary>
+            <param name="line">Tick line needto be updated</param>
+        </member>
+        <!-- Badly formed XML comment ignored for member "P:Syncfusion.UI.Xaml.Diagram.Controls.Tick.Value" -->
+        <member name="P:Syncfusion.UI.Xaml.Diagram.Controls.Tick.Segment">
+            <summary>
+            Gets the segment to which the tick line is added.
+            </summary>
+        </member>
+        <member name="T:Syncfusion.UI.Xaml.Diagram.Controls.TickAlignment">
+            <summary>
+            Tick line alignemnt
+            </summary>
+        </member>
+        <member name="F:Syncfusion.UI.Xaml.Diagram.Controls.TickAlignment.LeftOrTop">
+            <summary>
+            Left or Top alignment
+            </summary>
+        </member>
+        <member name="F:Syncfusion.UI.Xaml.Diagram.Controls.TickAlignment.RightOrBottom">
+            <summary>
+            Right or Bottom alignment
+            </summary>
+        </member>
+        <member name="F:Syncfusion.UI.Xaml.Diagram.ExportSettings._coder">
+            <summary>
+            BitmapEncoder for exporting
+            </summary>
+        </member>
+        <member name="F:Syncfusion.UI.Xaml.Diagram.ExportSettings._pagebackground">
+            <summary>
+            Background of Exporting Page
+            </summary>
+        </member>
+        <member name="F:Syncfusion.UI.Xaml.Diagram.ExportSettings._alphamode">
+            <summary>
+            Specifies the alpha mode of pixel data.
+            </summary>
+        </member>
+        <member name="F:Syncfusion.UI.Xaml.Diagram.ExportSettings._pixel">
+            <summary>
+             Specifies the pixel format of pixel data. Each enumeration value defines
+             a channel ordering, bit depth, and data type.
+            </summary>
+        </member>
+        <member name="F:Syncfusion.UI.Xaml.Diagram.ExportSettings._mclip">
+            <summary>
+            Clipping Rect for exporting the Specific Region of SfDiagram
+            </summary>
+        </member>
+        <member name="F:Syncfusion.UI.Xaml.Diagram.ExportSettings._mImageStretch">
+            <summary>
+            Stretch Option for Exporting the Image
+            </summary>
+        </member>
+        <member name="F:Syncfusion.UI.Xaml.Diagram.ExportSettings._exportmode">
+            <summary>
+            Specifies the Modes for Exporting
+            </summary>
+        </member>
+        <member name="F:Syncfusion.UI.Xaml.Diagram.ExportSettings._mRowCount">
+            <summary>
+            Count of Pages for Exporting Based on PageHeight
+            </summary>
+        </member>
+        <member name="F:Syncfusion.UI.Xaml.Diagram.ExportSettings._mColumnCount">
+            <summary>
+            Count of Pages for Exporting Based on PageWidth
+            </summary>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.PrintingService.UnregisterForPrinting">
+            <summary>
+            This function unregisters the app for printing with Windows.
+            </summary>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.PrintingService.RegisterForPrinting">
+            <summary>
+            This function registers the app for printing with Windows and sets up the necessary event handlers for the print process.
+            </summary>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.PrintingService.PrintTaskRequested(Windows.Graphics.Printing.PrintManager,Windows.Graphics.Printing.PrintTaskRequestedEventArgs)">
+            <summary>
+            This is the event handler for PrintManager.PrintTaskRequested.
+            </summary>
+            <param name="sender">PrintManager</param>
+            <param name="e">PrintTaskRequestedEventArgs </param>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.PrintingService.CreatePrintPreviewPages(System.Object,Windows.UI.Xaml.Printing.PaginateEventArgs)">
+            <summary>
+            This is the event handler for PrintDocument.Paginate. It creates print preview pages for the app.
+            </summary>
+            <param name="sender">PrintDocument</param>
+            <param name="e">Paginate Event Arguments</param>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.PrintingService.GetPrintPreviewPage(System.Object,Windows.UI.Xaml.Printing.GetPreviewPageEventArgs)">
+            <summary>
+            This is the event handler for PrintDocument.GetPrintPreviewPage. It provides a specific print preview page,
+            in the form of an UIElement, to an instance of PrintDocument. PrintDocument subsequently converts the UIElement
+            into a page that the Windows print system can deal with.
+            </summary>
+            <param name="sender">PrintDocument</param>
+            <param name="e">Arguments containing the preview requested page</param>
+                
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.PrintingService.AddPrintPages(System.Object,Windows.UI.Xaml.Printing.AddPagesEventArgs)">
+            <summary>
+            This is the event handler for PrintDocument.AddPages. It provides all pages to be printed, in the form of
+            UIElements, to an instance of PrintDocument. PrintDocument subsequently converts the UIElements
+            into a pages that the Windows print system can deal with.
+            </summary>
+            <param name="sender">PrintDocument</param>
+            <param name="e">Add page event arguments containing a print task options reference</param>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.PrintingService.AddOnePrintPreviewPage(Windows.Graphics.Printing.PrintPageDescription,System.Int32,System.Boolean)">
+            <summary>
+            This function creates and adds one print preview page to the internal cache of print preview
+            pages stored in printPreviewPages.
+            </summary>
+            <param name="lastRTBOAdded">Last RichTextBlockOverflow element added in the current content</param>
+            <param name="printPageDescription">Printer's page description</param>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.SfDiagram.Export(System.Int32,System.Int32)">
+            <summary>
+            Used to Export the Sfdiagram as Image -Multiple Pages
+            </summary>
+            <param name="settings"></param>
+            <param name="rowCount"></param>
+            <param name="columnCount"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.SfDiagram.Export">
+            <summary>
+            Used to Export the SfDiagram as Image-Single Page
+            </summary>
+            <param name="settings"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Syncfusion.UI.Xaml.Diagram.IZoomPositionParameter">
+            <summary>
+            Parameter for executing zoom manually
+            </summary>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.IZoomPositionParameter.ZoomTo">
+            <summary>
+            Zoom to a particular scale value.
+            </summary>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.IZoomPositionParameter.ZoomFactor">
+            <summary>
+            Percentage of scale value for each ZoomIn or ZoomOut functionality
+            </summary>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.IZoomPositionParameter.FocusPoint">
+            <summary>
+            Point of foucus while zooming. Usually used to specify a particular point in the content.
+            </summary>
+        </member>
+        <member name="T:Syncfusion.UI.Xaml.Diagram.ZoomManipulationParamenter">
+            <summary>
+            Manipulation Parameters for executing zoom manually
+            </summary>
+        </member>
+        <member name="T:Syncfusion.UI.Xaml.Diagram.ZoomPointerParamenter">
+            <summary>
+            Pointer Parameters for executing zoom manually
+            </summary>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.ZoomPointerParamenter.PointerArgs">
+            <summary>
+            Point of foucus while zooming. Usually used to specify a particular point in the content.
+            Note: Focus point for zooming can also be defined using FocusPoint property.
+            </summary>
+        </member>
+        <member name="T:Syncfusion.UI.Xaml.Diagram.ZoomPositionParamenter">
+            <summary>
+            Position Parameters for executing zoom manually
+            </summary>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.ZoomPositionParamenter.ZoomTo">
+            <summary>
+            Zoom to a particular scale value.
+            </summary>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.ZoomPositionParamenter.ZoomFactor">
+            <summary>
+            Percentage of scale value for each ZoomIn or ZoomOut functionality
+            </summary>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.ZoomPositionParamenter.FocusPoint">
+            <summary>
+            Point of foucus while zooming. Usually used to specify a particular point in the content.
+            Note: Focus point for zooming can also be defined using Pointer property.
+            </summary>
+        </member>
+        <member name="T:Syncfusion.UI.Xaml.Diagram.ResetParameter">
+            <summary>
+            Parameters to execute Reset Command
+            </summary>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.ResetParameter.Reset">
+            <summary>
+            Gets or sets ZoomPanReset
+            </summary>
+        </member>
+        <member name="T:Syncfusion.UI.Xaml.Diagram.FitToPageParameter">
+            <summary>
+            Parameters to execute FitToPageCommand
+            </summary>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.FitToPageParameter.FitToPage">
+            <summary>
+            Gets or sets FitToPage
+            </summary>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.FitToPageParameter.Margin">
+            <summary>
+            Gets or sets the Margin
+            </summary>
+        </member>
+        <member name="T:Syncfusion.UI.Xaml.Diagram.FlipParameter">
+            <summary>
+            Parameters to execute Flip Command
+            </summary>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.FlipParameter.Flip">
+            <summary>
+            Gets or sets Flip
+            </summary>
+        </member>
+        <member name="T:Syncfusion.UI.Xaml.Diagram.SnapParameter">
+            <summary>
+            The parameters to represent the possible snaps and the proposed changes if the snaps are accepted.
+            </summary>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.SnapParameter.SnapChanges">
+            <summary>
+            Gets or sets the property that will be changed bacause of the snap.
+            </summary>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.SnapParameter.SnapReason">
+            <summary>
+            Gets or sets the reason or target of the snap
+            </summary>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.SnapParameter.SnapInfo">
+            <summary>
+            Gets or sets the information about the Target
+            </summary>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.SnapParameter.Current">
+            <summary>
+            Gets or sets the current status of the  object that is being dragged.
+            </summary>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.SnapParameter.Proposed">
+            <summary>
+            Gets or sets the proposed status of the  object that is being dragged.
+            </summary>
+        </member>
+        <member name="T:Syncfusion.UI.Xaml.Diagram.SnapState">
+            <summary>
+            Status of the node that is being interacted.
+            </summary>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.SnapState.X">
+            <summary>
+            Gets or sets the X position of the object.
+            </summary>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.SnapState.Y">
+            <summary>
+            Gets or sets the Y position of the object.
+            </summary>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.SnapState.Angle">
+            <summary>
+            Gets or sets Rotate angle of the object.
+            </summary>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.SnapState.Width">
+            <summary>
+            Gets or sets width of the object.
+            </summary>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.SnapState.Height">
+            <summary>
+            Gets or sets height of the object.
+            </summary>
+        </member>
+        <member name="T:Syncfusion.UI.Xaml.Diagram.SnapInfo">
+            <summary>
+            Information about the Snap Target
+            </summary>
+        </member>
+        <member name="T:Syncfusion.UI.Xaml.Diagram.GridlineSnapInfo">
+            <summary>
+            Information about the Target Gridline
+            </summary>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.GridlineSnapInfo.Target">
+            <summary>
+            Gets or sets the position of the target Gridline.
+            </summary>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.GridlineSnapInfo.Side">
+            <summary>
+            Gets or sets the Side of the moving object has to be snapped
+            </summary>
+        </member>
+        <member name="T:Syncfusion.UI.Xaml.Diagram.ObjectSnapInfo">
+            <summary>
+            Informatoin about the target object.
+            </summary>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.ObjectSnapInfo.Target">
+            <summary>
+            Gets or sets object towards which the moving object has to be snapped
+            </summary>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.ObjectSnapInfo.SnapToObject">
+            <summary>
+            Gets or Sets the reason for the snap
+            </summary>
+        </member>
+        <member name="T:Syncfusion.UI.Xaml.Diagram.SegmentSnapInfo">
+             <summary>
+            Information about the Collection of connectors that are nearer to the moving object.
+             </summary>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.SegmentSnapInfo.TargetConnectors">
+            <summary>
+            Gets or sets the collection of connectors that are nearer to the moving object
+            </summary>
+        </member>
+        <member name="T:Syncfusion.UI.Xaml.Diagram.TargetConnector">
+            <summary>
+            Connector that is nearer to the moving object.
+            </summary>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.TargetConnector.Connector">
+            <summary>
+            Gets or sets the Connector that is nearer to the moving object
+            </summary>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.TargetConnector.TargetSegment">
+            <summary>
+            Gets or sets the nearest segment of the target connector.
+            </summary>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.TargetConnector.SegmentStartPoint">
+            <summary>
+            Gets or sets the starting point of the TargetSegment
+            </summary>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.TargetConnector.IntersectingPoints">
+            <summary>
+            Gets or sets the collection of intersecting points between the target segment and the moving object.
+            </summary>
+        </member>
+        <member name="T:Syncfusion.UI.Xaml.Diagram.EqualSpaceSnapInfo">
+            <summary>
+            Information about the objects that are equally spaced.
+            </summary>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.EqualSpaceSnapInfo.Target">
+            <summary>
+            Gets or sets the nearest object among the equally spaced objects.
+            </summary>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.EqualSpaceSnapInfo.SnapToObject">
+            <summary>
+            Gets or sets the reason of the snap.
+            </summary>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.EqualSpaceSnapInfo.Distance">
+            <summary>
+            Gets or sets the distance between equally spaced objects
+            </summary>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.EqualSpaceSnapInfo.EquallySpacedObjects">
+            <summary>
+            Gets or sets the collection of objects that are equally spaced
+            </summary>
+        </member>
+        <member name="T:Syncfusion.UI.Xaml.Diagram.SameSizeSnapInfo">
+            <summary>
+            Information about the objects that are of the same size of the moving object.
+            </summary>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.SameSizeSnapInfo.SameSizeObjects">
+            <summary>
+            Gets or sets the collection of same size objects
+            </summary>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.SameSizeSnapInfo.SnapToObject">
+            <summary>
+            Gets or sets the reason of Snap.
+            </summary>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.Node.OnSnap(System.Collections.Generic.List{Syncfusion.UI.Xaml.Diagram.SnapParameter},System.Boolean@)">
+            <summary>
+            Invoked when target objects have been found to snap
+            </summary>
+            <param name="SnapParameters">Collection of SnapParameters.</param>
+            <param name="snapAccepted">Whether the object can be snapped or not</param>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.Utility.Command.#ctor(System.Action{System.Object},System.Func{System.Object,System.Boolean})">
+            <summary>
+            Initializes a new instance of the <see cref="T:Syncfusion.UI.Xaml.Diagram.Utility.Command"/> class.
+            </summary>
+            <param name="executeAction">The execute action.</param>
+            <param name="canExecute">The can execute.</param>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.Utility.Command.CanExecute(System.Object)">
+            <summary>
+            Defines the method that determines whether the command 
+            can execute in its current state.
+            </summary>
+            <param name="parameter">
+            Data used by the command. 
+            If the command does not require data to be passed,
+            this object can be set to null.
+            </param>
+            <returns>
+            true if this command can be executed; otherwise, false.
+            </returns>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.Utility.Command.Execute(System.Object)">
+            <summary>
+            Defines the method to be called when the command is invoked.
+            </summary>
+            <param name="parameter">
+            Data used by the command. 
+            If the command does not require data to be passed, 
+            this object can be set to null.
+            </param>
+        </member>
+        <member name="E:Syncfusion.UI.Xaml.Diagram.Utility.Command.CanExecuteChanged">
+            <summary>
+            Occurs when changes occur that affect whether the command should execute.
+            </summary>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.Utility.Vector.op_Equality(Syncfusion.UI.Xaml.Diagram.Utility.Vector,Syncfusion.UI.Xaml.Diagram.Utility.Vector)">
+            <summary> Compares two vectors for equality.</summary>
+            <returns>true if the <see cref="P:System.Windows.Vector.X" /> and <see cref="P:System.Windows.Vector.Y" /> components of <paramref name="vector1" /> and <paramref name="vector2" /> are equal; otherwise, false.</returns>
+            <param name="vector1">The first vector to compare.</param>
+            <param name="vector2">The second vector to compare.</param>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.Utility.Vector.op_Inequality(Syncfusion.UI.Xaml.Diagram.Utility.Vector,Syncfusion.UI.Xaml.Diagram.Utility.Vector)">
+            <summary>Compares two vectors for inequality.</summary>
+            <returns>true if the <see cref="P:System.Windows.Vector.X" /> and <see cref="P:System.Windows.Vector.Y" /> components of <paramref name="vector1" /> and <paramref name="vector2" /> are different; otherwise, false.</returns>
+            <param name="vector1">The first vector to compare.</param>
+            <param name="vector2">The second vector to compare.</param>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.Utility.Vector.Equals(Syncfusion.UI.Xaml.Diagram.Utility.Vector,Syncfusion.UI.Xaml.Diagram.Utility.Vector)">
+            <summary>Compares the two specified vectors for equality.</summary>
+            <returns>true if t he <see cref="P:System.Windows.Vector.X" /> and <see cref="P:System.Windows.Vector.Y" /> components of <paramref name="vector1" /> and <paramref name="vector2" /> are equal; otherwise, false.</returns>
+            <param name="vector1">The first vector to compare.</param>
+            <param name="vector2">The second vector to compare.</param>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.Utility.Vector.Equals(System.Object)">
+            <summary>Determines whether the specified <see cref="T:System.Object" /> is a <see cref="T:System.Windows.Vector" /> structure and, if it is, whether it has the same <see cref="P:System.Windows.Vector.X" /> and <see cref="P:System.Windows.Vector.Y" /> values as this vector.</summary>
+            <returns>true if <paramref name="o" /> is a <see cref="T:System.Windows.Vector" /> and has the same <see cref="P:System.Windows.Vector.X" /> and <see cref="P:System.Windows.Vector.Y" /> values as this vector; otherwise, false.</returns>
+            <param name="o">The vector to compare.</param>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.Utility.Vector.Equals(Syncfusion.UI.Xaml.Diagram.Utility.Vector)">
+            <summary> Compares two vectors for equality.</summary>
+            <returns>true if <paramref name="value" /> has the same <see cref="P:System.Windows.Vector.X" /> and <see cref="P:System.Windows.Vector.Y" /> values as this vector; otherwise, false.</returns>
+            <param name="value">The vector to compare with this vector.</param>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.Utility.Vector.GetHashCode">
+            <summary>Returns the hash code for this vector. </summary>
+            <returns>The hash code for this instance.</returns>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.Utility.Vector.System#IFormattable#ToString(System.String,System.IFormatProvider)">
+            <summary>Returns the string representation of this <see cref="T:System.Windows.Vector" /> structure with the specified formatting information. </summary>
+            <returns>A string that represents the <see cref="P:System.Windows.Vector.X" /> and <see cref="P:System.Windows.Vector.Y" /> values of this <see cref="T:System.Windows.Vector" />.</returns>
+            <param name="provider">The culture-specific formatting information.</param>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.Utility.Vector.#ctor(System.Double,System.Double)">
+            <summary>Initializes a new instance of the <see cref="T:System.Windows.Vector" /> structure. </summary>
+            <param name="x">The <see cref="P:System.Windows.Vector.X" />-offset of the new <see cref="T:System.Windows.Vector" />.</param>
+            <param name="y">The <see cref="P:System.Windows.Vector.Y" />-offset of the new <see cref="T:System.Windows.Vector" />.</param>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.Utility.Vector.Normalize">
+            <summary> Normalizes this vector. </summary>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.Utility.Vector.CrossProduct(Syncfusion.UI.Xaml.Diagram.Utility.Vector,Syncfusion.UI.Xaml.Diagram.Utility.Vector)">
+            <summary>Calculates the cross product of two vectors. </summary>
+            <returns>The cross product of <paramref name="vector1" /> and <paramref name="vector2" />. The following formula is used to calculate the cross product: (Vector1.X * Vector2.Y) - (Vector1.Y * Vector2.X)</returns>
+            <param name="vector1">The first vector to evaluate.</param>
+            <param name="vector2">The second vector to evaluate.</param>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.Utility.Vector.AngleBetween(Syncfusion.UI.Xaml.Diagram.Utility.Vector,Syncfusion.UI.Xaml.Diagram.Utility.Vector)">
+            <summary>Retrieves the angle, expressed in degrees, between the two specified vectors. </summary>
+            <returns>The angle, in degrees, between <paramref name="vector1" /> and <paramref name="vector2" />.</returns>
+            <param name="vector1">The first vector to evaluate.</param>
+            <param name="vector2">The second vector to evaluate.</param>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.Utility.Vector.op_UnaryNegation(Syncfusion.UI.Xaml.Diagram.Utility.Vector)">
+            <summary>Negates the specified vector. </summary>
+            <returns>A vector with <see cref="P:System.Windows.Vector.X" /> and <see cref="P:System.Windows.Vector.Y" /> values opposite of the <see cref="P:System.Windows.Vector.X" /> and <see cref="P:System.Windows.Vector.Y" /> values of <paramref name="vector" />.</returns>
+            <param name="vector">The vector to negate.</param>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.Utility.Vector.Negate">
+            <summary>Negates this vector. The vector has the same magnitude as before, but its direction is now opposite. </summary>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.Utility.Vector.op_Addition(Syncfusion.UI.Xaml.Diagram.Utility.Vector,Syncfusion.UI.Xaml.Diagram.Utility.Vector)">
+            <summary>Adds two vectors and returns the result as a vector. </summary>
+            <returns>The sum of <paramref name="vector1" /> and <paramref name="vector2" />. </returns>
+            <param name="vector1">The first vector to add.</param>
+            <param name="vector2">The second vector to add.</param>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.Utility.Vector.Add(Syncfusion.UI.Xaml.Diagram.Utility.Vector,Syncfusion.UI.Xaml.Diagram.Utility.Vector)">
+            <summary>Adds two vectors and returns the result as a <see cref="T:System.Windows.Vector" /> structure. </summary>
+            <returns>The sum of <paramref name="vector1" /> and <paramref name="vector2" />.</returns>
+            <param name="vector1">The first vector to add.</param>
+            <param name="vector2">The second vector to add.</param>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.Utility.Vector.op_Subtraction(Syncfusion.UI.Xaml.Diagram.Utility.Vector,Syncfusion.UI.Xaml.Diagram.Utility.Vector)">
+            <summary>Subtracts one specified vector from another. </summary>
+            <returns>The difference between <paramref name="vector1" /> and <paramref name="vector2" />. </returns>
+            <param name="vector1">The vector from which <paramref name="vector2" /> is subtracted. </param>
+            <param name="vector2">The vector to subtract from <paramref name="vector1" />.</param>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.Utility.Vector.Subtract(Syncfusion.UI.Xaml.Diagram.Utility.Vector,Syncfusion.UI.Xaml.Diagram.Utility.Vector)">
+            <summary>Subtracts the specified vector from another specified vector. </summary>
+            <returns>The difference between <paramref name="vector1" /> and <paramref name="vector2" />. </returns>
+            <param name="vector1">The vector from which <paramref name="vector2" /> is subtracted.</param>
+            <param name="vector2">The vector to subtract from <paramref name="vector1" />.</param>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.Utility.Vector.op_Addition(Syncfusion.UI.Xaml.Diagram.Utility.Vector,Windows.Foundation.Point)">
+            <summary> Translates a point by the specified vector and returns the resulting point. </summary>
+            <returns>The result of translating <paramref name="point" /> by <paramref name="vector" />.</returns>
+            <param name="vector">The vector used to translate <paramref name="point" />.</param>
+            <param name="point">The point to translate.</param>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.Utility.Vector.Add(Syncfusion.UI.Xaml.Diagram.Utility.Vector,Windows.Foundation.Point)">
+            <summary>Translates the specified point by the specified vector and returns the resulting point.</summary>
+            <returns>The result of translating <paramref name="point" /> by <paramref name="vector" />.</returns>
+            <param name="vector">The amount to translate the specified point.</param>
+            <param name="point">The point to translate.</param>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.Utility.Vector.op_Multiply(Syncfusion.UI.Xaml.Diagram.Utility.Vector,System.Double)">
+            <summary>Multiplies the specified vector by the specified scalar and returns the resulting vector. </summary>
+            <returns>The result of multiplying <paramref name="vector" /> and <paramref name="scalar" />.</returns>
+            <param name="vector">The vector to multiply.</param>
+            <param name="scalar">The scalar to multiply.</param>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.Utility.Vector.Multiply(Syncfusion.UI.Xaml.Diagram.Utility.Vector,System.Double)">
+            <summary> Multiplies the specified vector by the specified scalar and returns the resulting <see cref="T:System.Windows.Vector" />. </summary>
+            <returns>The result of multiplying <paramref name="vector" /> and <paramref name="scalar" />.</returns>
+            <param name="vector">The vector to multiply.</param>
+            <param name="scalar">The scalar to multiply.</param>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.Utility.Vector.op_Multiply(System.Double,Syncfusion.UI.Xaml.Diagram.Utility.Vector)">
+            <summary> Multiplies the specified scalar by the specified vector and returns the resulting vector. </summary>
+            <returns>The result of multiplying <paramref name="scalar" /> and <paramref name="vector" />.</returns>
+            <param name="scalar">The scalar to multiply.</param>
+            <param name="vector">The vector to multiply.</param>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.Utility.Vector.Multiply(System.Double,Syncfusion.UI.Xaml.Diagram.Utility.Vector)">
+            <summary> Multiplies the specified scalar by the specified vector and returns the resulting <see cref="T:System.Windows.Vector" />. </summary>
+            <returns>The result of multiplying <paramref name="scalar" /> and <paramref name="vector" />.</returns>
+            <param name="scalar">The scalar to multiply.</param>
+            <param name="vector">The vector to multiply.</param>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.Utility.Vector.op_Division(Syncfusion.UI.Xaml.Diagram.Utility.Vector,System.Double)">
+            <summary> Divides the specified vector by the specified scalar and returns the resulting vector.</summary>
+            <returns>The result of dividing <paramref name="vector" /> by <paramref name="scalar" />.</returns>
+            <param name="vector">The vector to divide.</param>
+            <param name="scalar">The scalar by which <paramref name="vector" /> will be divided.</param>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.Utility.Vector.Divide(Syncfusion.UI.Xaml.Diagram.Utility.Vector,System.Double)">
+            <summary>Divides the specified vector by the specified scalar and returns the result as a <see cref="T:System.Windows.Vector" />.</summary>
+            <returns>The result of dividing <paramref name="vector" /> by <paramref name="scalar" />.</returns>
+            <param name="vector">The vector structure to divide.</param>
+            <param name="scalar">The amount by which <paramref name="vector" /> is divided.</param>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.Utility.Vector.op_Multiply(Syncfusion.UI.Xaml.Diagram.Utility.Vector,Syncfusion.UI.Xaml.Diagram.Utility.Vector)">
+            <summary> Calculates the dot product of the two specified vector structures and returns the result as a <see cref="T:System.Double" />.</summary>
+            <returns>Returns a <see cref="T:System.Double" /> containing the scalar dot product of <paramref name="vector1" /> and <paramref name="vector2" />, which is calculated using the following formula:vector1.X * vector2.X + vector1.Y * vector2.Y</returns>
+            <param name="vector1">The first vector to multiply.</param>
+            <param name="vector2">The second vector to multiply.</param>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.Utility.Vector.Multiply(Syncfusion.UI.Xaml.Diagram.Utility.Vector,Syncfusion.UI.Xaml.Diagram.Utility.Vector)">
+            <summary>Calculates the dot product of the two specified vectors and returns the result as a <see cref="T:System.Double" />.</summary>
+            <returns>A <see cref="T:System.Double" /> containing the scalar dot product of <paramref name="vector1" /> and <paramref name="vector2" />, which is calculated using the following formula: (vector1.X * vector2.X) + (vector1.Y * vector2.Y) </returns>
+            <param name="vector1">The first vector to multiply.</param>
+            <param name="vector2">The second vector structure to multiply.</param>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.Utility.Vector.Determinant(Syncfusion.UI.Xaml.Diagram.Utility.Vector,Syncfusion.UI.Xaml.Diagram.Utility.Vector)">
+            <summary>Calculates the determinant of two vectors.</summary>
+            <returns>The determinant of <paramref name="vector1" /> and <paramref name="vector2" />.</returns>
+            <param name="vector1">The first vector to evaluate.</param>
+            <param name="vector2">The second vector to evaluate.</param>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.Utility.Vector.X">
+            <summary>Gets or sets the <see cref="P:System.Windows.Vector.X" /> component of this vector. </summary>
+            <returns>The <see cref="P:System.Windows.Vector.X" /> component of this vector. The default value is 0.</returns>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.Utility.Vector.Y">
+            <summary>Gets or sets the <see cref="P:System.Windows.Vector.Y" /> component of this vector. </summary>
+            <returns>The <see cref="P:System.Windows.Vector.Y" /> component of this vector. The default value is 0.</returns>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.Utility.Vector.Length">
+            <summary>Gets the length of this vector. </summary>
+            <returns>The length of this vector. </returns>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.Utility.Vector.LengthSquared">
+            <summary>Gets the square of the length of this vector. </summary>
+            <returns>The square of the <see cref="P:System.Windows.Vector.Length" /> of this vector.</returns>
+        </member>
+        <member name="F:Syncfusion.UI.Xaml.Diagram.OrthogonalDirection.Auto">
+            <summary>
+            Angle is chosen internally
+            </summary>
+        </member>
+        <member name="F:Syncfusion.UI.Xaml.Diagram.OrthogonalDirection.Left">
+            <summary>
+            Absolute angle: 180 Degree
+            </summary>
+        </member>
+        <member name="F:Syncfusion.UI.Xaml.Diagram.OrthogonalDirection.Top">
+            <summary>
+            Absolute angle: 270 Degree or -90 Degree
+            </summary>
+        </member>
+        <member name="F:Syncfusion.UI.Xaml.Diagram.OrthogonalDirection.Right">
+            <summary>
+            Absolute angle: 0 degree
+            </summary>
+        </member>
+        <member name="F:Syncfusion.UI.Xaml.Diagram.OrthogonalDirection.Bottom">
+            <summary>
+            Absolute angle: 90 degree
+            </summary>
+        </member>
+        <member name="F:Syncfusion.UI.Xaml.Diagram.OrthogonalDirection.Straight">
+            <summary>
+            Relative Angle: 0 degree
+            </summary>
+        </member>
+        <member name="F:Syncfusion.UI.Xaml.Diagram.OrthogonalDirection.ClockWise90">
+            <summary>
+            Relative Angle: 90 degree
+            </summary>
+        </member>
+        <member name="F:Syncfusion.UI.Xaml.Diagram.OrthogonalDirection.Opposite">
+            <summary>
+            Relative Angle: 180 degree
+            </summary>
+        </member>
+        <member name="F:Syncfusion.UI.Xaml.Diagram.OrthogonalDirection.AntiClockWise90">
+            <summary>
+            Relative Angle: 270 degree or -90 degree
+            </summary>
+        </member>
+        <member name="F:Syncfusion.UI.Xaml.Diagram.StraightSegment._Smooth">
+            <summary>
+            Gets or sets Smooth
+            </summary>
+        </member>
+        <member name="F:Syncfusion.UI.Xaml.Diagram.StraightSegment._constraints">
+            <summary>
+            Gets or sets InheritSmooth
+            </summary>
+        </member>
+        <member name="F:Syncfusion.UI.Xaml.Diagram.LineSegmentLength._Smooth">
+            <summary>
+            Gets or sets Smooth
+            </summary>
+        </member>
+        <member name="F:Syncfusion.UI.Xaml.Diagram.LineSegmentLength._inheritSmooth">
+            <summary>
+            Gets or sets InheritSmooth
+            </summary>
+        </member>
+        <member name="F:Syncfusion.UI.Xaml.Diagram.OrthogonalSegment._Smooth">
+            <summary>
+            Gets or sets Smooth
+            </summary>
+        </member>
+        <member name="F:Syncfusion.UI.Xaml.Diagram.OrthogonalSegment._inheritSmooth">
+            <summary>
+            Gets or sets InheritSmooth
+            </summary>
+        </member>
+        <member name="F:Syncfusion.UI.Xaml.Diagram.CubicCurveSegment._Smooth">
+            <summary>
+            Gets or sets Smooth
+            </summary>
+        </member>
+        <member name="F:Syncfusion.UI.Xaml.Diagram.CubicCurveSegment._inheritSmooth">
+            <summary>
+            Gets or sets InheritSmooth
+            </summary>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.CubicCurveSegment.Vector1">
+            <summary>
+            Gets or sets the vector representation of Point1
+            </summary>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.CubicCurveSegment.Vector2">
+            <summary>
+            Gets or sets the vector representation of Point2
+            </summary>
+        </member>
+        <member name="F:Syncfusion.UI.Xaml.Diagram.QuadraticCurveSegment._Smooth">
+            <summary>
+            Gets or sets Smooth
+            </summary>
+        </member>
+        <member name="F:Syncfusion.UI.Xaml.Diagram.QuadraticCurveSegment._inheritSmooth">
+            <summary>
+            Gets or sets InheritSmooth
+            </summary>
+        </member>
+        <member name="T:Syncfusion.UI.Xaml.Diagram.BezierSmoothness">
+            <summary>
+            Describes curve editing
+            </summary>
+        </member>
+        <member name="T:Syncfusion.UI.Xaml.Diagram.SegmentConstraints">
+            <summary>
+            Segment Constraints
+            </summary>
+        </member>
+        <member name="T:Syncfusion.UI.Xaml.Diagram.Side">
+            <summary>
+            The side of the node that is going to be snapped with Gridline
+            </summary>
+        </member>
+        <member name="T:Syncfusion.UI.Xaml.Diagram.SnapReason">
+            <summary>
+            Reason or Target of the snap
+            </summary>
+        </member>
+        <member name="T:Syncfusion.UI.Xaml.Diagram.SnapChanges">
+            <summary>
+            The property that is going to be changed
+            </summary>
+        </member>
+        <member name="T:Syncfusion.UI.Xaml.Diagram.Reset">
+            <summary>
+            Describes the behaviour of Reset Command
+            </summary>
+        </member>
+        <member name="T:Syncfusion.UI.Xaml.Diagram.Flip">
+            <summary>
+            Describes the behaviour of Flip Command
+            </summary>
+        </member>
+        <member name="T:Syncfusion.UI.Xaml.Diagram.FitToPage">
+            <summary>
+            Describes the behaviour of FitToPage Command
+            </summary>
+        </member>
+        <member name="T:Syncfusion.UI.Xaml.Diagram.ZoomCommand">
+            <summary>
+            Describes the Zoom command
+            </summary>
+        </member>
+        <member name="F:Syncfusion.UI.Xaml.Diagram.Panels.WrapPanel.OrientationProperty">
+            <summary>
+            Defines the Orientation property.  This is a dependency property.
+            </summary>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.Panels.WrapPanel.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:Syncfusion.UI.Xaml.Diagram.Panels.WrapPanel"/> class.
+            </summary>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.Panels.WrapPanel.ArrangeOverride(Windows.Foundation.Size)">
+            <summary>
+            Positions child elements and determines a size for the control.
+            </summary>
+            <param name="finalSize">The final area within the parent
+            that this element should use to arrange itself and its children.</param>
+            <returns>The actual size used.</returns>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.Panels.WrapPanel.MeasureOverride(Windows.Foundation.Size)">
+            <summary>
+            Measures elements.
+            </summary>
+            <param name="availableSize">The available size</param>
+            <returns>The available size.</returns>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.Panels.WrapPanel.Orientation">
+            <summary>
+            Gets or sets the HierarchicalDataTemplate for items.
+            </summary>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.DoubleExt.CompareTo(Syncfusion.UI.Xaml.Diagram.DoubleExt)">
+            <summary>Compares this instance to a specified DoubleExt-precision floating-point number and returns an integer that indicates whether the value of this instance is less than, equal to, or greater than the value of the specified DoubleExt-precision floating-point number.</summary>
+            <returns>A signed number indicating the relative values of this instance and <paramref name="value" />.Return Value Description Less than zero This instance is less than <paramref name="value" />.-or- This instance is not a number (<see cref="F:DoubleExt.NaN" />) and <paramref name="value" /> is a number. Zero This instance is equal to <paramref name="value" />.-or- Both this instance and <paramref name="value" /> are not a number (<see cref="F:DoubleExt.NaN" />), <see cref="F:DoubleExt.PositiveInfinity" />, or <see cref="F:DoubleExt.NegativeInfinity" />. Greater than zero This instance is greater than <paramref name="value" />.-or- This instance is a number and <paramref name="value" /> is not a number (<see cref="F:DoubleExt.NaN" />). </returns>
+            <param name="value">A DoubleExt-precision floating-point number to compare. </param>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.DoubleExt.Equals(Syncfusion.UI.Xaml.Diagram.DoubleExt)">
+            <summary>Returns a value indicating whether this instance and a specified <see cref="T:DoubleExt" /> object represent the same value.</summary>
+            <returns>true if <paramref name="obj" /> is equal to this instance; otherwise, false.</returns>
+            <param name="obj">A <see cref="T:DoubleExt" /> object to compare to this instance.</param>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.DoubleExt.Equals(System.Object)">
+            <summary>Returns a value indicating whether this instance is equal to a specified object.</summary>
+            <returns>true if <paramref name="obj" /> is an instance of <see cref="T:DoubleExt" /> and equals the value of this instance; otherwise, false.</returns>
+            <param name="obj">An object to compare with this instance. </param>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.DoubleExt.GetHashCode">
+            <summary>Returns the hash code for this instance.</summary>
+            <returns>A 32-bit signed integer hash code.</returns>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.DoubleExt.IsInfinity(Syncfusion.UI.Xaml.Diagram.DoubleExt)">
+            <summary>Returns a value indicating whether the specified number evaluates to negative or positive infinity </summary>
+            <returns>true if <paramref name="d" /> evaluates to <see cref="F:DoubleExt.PositiveInfinity" /> or <see cref="F:DoubleExt.NegativeInfinity" />; otherwise, false.</returns>
+            <param name="d">A DoubleExt-precision floating-point number. </param>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.DoubleExt.IsNaN(Syncfusion.UI.Xaml.Diagram.DoubleExt)">
+            <summary>Returns a value that indicates whether the specified value is not a number (<see cref="F:DoubleExt.NaN" />).</summary>
+            <returns>true if <paramref name="d" /> evaluates to <see cref="F:DoubleExt.NaN" />; otherwise, false.</returns>
+            <param name="d">A DoubleExt-precision floating-point number. </param>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.DoubleExt.IsNegativeInfinity(Syncfusion.UI.Xaml.Diagram.DoubleExt)">
+            <summary>Returns a value indicating whether the specified number evaluates to negative infinity.</summary>
+            <returns>true if <paramref name="d" /> evaluates to <see cref="F:DoubleExt.NegativeInfinity" />; otherwise, false.</returns>
+            <param name="d">A DoubleExt-precision floating-point number. </param>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.DoubleExt.IsPositiveInfinity(Syncfusion.UI.Xaml.Diagram.DoubleExt)">
+            <summary>Returns a value indicating whether the specified number evaluates to positive infinity.</summary>
+            <returns>true if <paramref name="d" /> evaluates to <see cref="F:DoubleExt.PositiveInfinity" />; otherwise, false.</returns>
+            <param name="d">A DoubleExt-precision floating-point number. </param>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.DoubleExt.op_Equality(Syncfusion.UI.Xaml.Diagram.DoubleExt,Syncfusion.UI.Xaml.Diagram.DoubleExt)">
+            <summary>Returns a value that indicates whether two specified <see cref="T:DoubleExt" /> values are equal.</summary>
+            <returns>true if <paramref name="left" /> and <paramref name="right" /> are equal; otherwise, false.</returns>
+            <param name="left">The first value to compare. </param>
+            <param name="right">The second value to compare.</param>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.DoubleExt.op_GreaterThan(Syncfusion.UI.Xaml.Diagram.DoubleExt,Syncfusion.UI.Xaml.Diagram.DoubleExt)">
+            <summary>Returns a value that indicates whether a specified <see cref="T:DoubleExt" /> value is greater than another specified <see cref="T:DoubleExt" /> value.</summary>
+            <returns>true if <paramref name="left" /> is greater than <paramref name="right" />; otherwise, false.</returns>
+            <param name="left">The first value to compare.</param>
+            <param name="right">The second value to compare.</param>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.DoubleExt.op_GreaterThanOrEqual(Syncfusion.UI.Xaml.Diagram.DoubleExt,Syncfusion.UI.Xaml.Diagram.DoubleExt)">
+            <summary>Returns a value that indicates whether a specified <see cref="T:DoubleExt" /> value is greater than or equal to another specified <see cref="T:DoubleExt" /> value.</summary>
+            <returns>true if <paramref name="left" /> is greater than or equal to <paramref name="right" />; otherwise, false.</returns>
+            <param name="left">The first value to compare.</param>
+            <param name="right">The second value to compare.</param>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.DoubleExt.op_Inequality(Syncfusion.UI.Xaml.Diagram.DoubleExt,Syncfusion.UI.Xaml.Diagram.DoubleExt)">
+            <summary>Returns a value that indicates whether two specified <see cref="T:DoubleExt" /> values are not equal.</summary>
+            <returns>true if <paramref name="left" /> and <paramref name="right" /> are not equal; otherwise, false.</returns>
+            <param name="left">The first value to compare.</param>
+            <param name="right">The second value to compare.</param>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.DoubleExt.op_LessThan(Syncfusion.UI.Xaml.Diagram.DoubleExt,Syncfusion.UI.Xaml.Diagram.DoubleExt)">
+            <summary>Returns a value that indicates whether a specified <see cref="T:DoubleExt" /> value is less than another specified <see cref="T:DoubleExt" /> value.</summary>
+            <returns>true if <paramref name="left" /> is less than <paramref name="right" />; otherwise, false.</returns>
+            <param name="left">The first value to compare.</param>
+            <param name="right">The second value to compare.</param>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.DoubleExt.op_LessThanOrEqual(Syncfusion.UI.Xaml.Diagram.DoubleExt,Syncfusion.UI.Xaml.Diagram.DoubleExt)">
+            <summary>Returns a value that indicates whether a specified <see cref="T:DoubleExt" /> value is less than or equal to another specified <see cref="T:DoubleExt" /> value.</summary>
+            <returns>true if <paramref name="left" /> is less than or equal to <paramref name="right" />; otherwise, false.</returns>
+            <param name="left">The first value to compare.</param>
+            <param name="right">The second value to compare.</param>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.DoubleExt.Parse(System.String)">
+            <summary>Converts the string representation of a number to its DoubleExt-precision floating-point number equivalent.</summary>
+            <returns>A DoubleExt-precision floating-point number that is equivalent to the numeric value or symbol specified in <paramref name="s" />.</returns>
+            <param name="s">A string that contains a number to convert. </param>
+            <exception cref="T:ArgumentNullException">
+              <paramref name="s" /> is null. </exception>
+            <exception cref="T:FormatException">
+              <paramref name="s" /> does not represent a number in a valid format. </exception>
+            <exception cref="T:OverflowException">
+              <paramref name="s" /> represents a number that is less than <see cref="F:DoubleExt.MinValue" /> or greater than <see cref="F:DoubleExt.MaxValue" />. </exception>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.DoubleExt.Parse(System.String,System.Globalization.NumberStyles)">
+            <summary>Converts the string representation of a number in a specified style to its DoubleExt-precision floating-point number equivalent.</summary>
+            <returns>A DoubleExt-precision floating-point number that is equivalent to the numeric value or symbol specified in <paramref name="s" />.</returns>
+            <param name="s">A string that contains a number to convert. </param>
+            <param name="style">A bitwise combination of enumeration values that indicate the style elements that can be present in <paramref name="s" />. A typical value to specify is a combination of <see cref="F:Globalization.NumberStyles.Float" /> combined with <see cref="F:Globalization.NumberStyles.AllowThousands" />.</param>
+            <exception cref="T:ArgumentNullException">
+              <paramref name="s" /> is null. </exception>
+            <exception cref="T:FormatException">
+              <paramref name="s" /> does not represent a number in a valid format. </exception>
+            <exception cref="T:OverflowException">
+              <paramref name="s" /> represents a number that is less than <see cref="F:DoubleExt.MinValue" /> or greater than <see cref="F:DoubleExt.MaxValue" />. </exception>
+            <exception cref="T:ArgumentException">
+              <paramref name="style" /> is not a <see cref="T:Globalization.NumberStyles" /> value. -or-<paramref name="style" /> includes the <see cref="F:Globalization.NumberStyles.AllowHexSpecifier" /> value. </exception>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.DoubleExt.Parse(System.String,System.Globalization.NumberStyles,System.IFormatProvider)">
+            <summary>Converts the string representation of a number in a specified style and culture-specific format to its DoubleExt-precision floating-point number equivalent.</summary>
+            <returns>A DoubleExt-precision floating-point number that is equivalent to the numeric value or symbol specified in <paramref name="s" />.</returns>
+            <param name="s">A string that contains a number to convert. </param>
+            <param name="style">A bitwise combination of enumeration values that indicate the style elements that can be present in <paramref name="s" />. A typical value to specify is <see cref="F:Globalization.NumberStyles.Float" /> combined with <see cref="F:Globalization.NumberStyles.AllowThousands" />.</param>
+            <param name="provider">An object that supplies culture-specific formatting information about <paramref name="s" />. </param>
+            <exception cref="T:ArgumentNullException">
+              <paramref name="s" /> is null. </exception>
+            <exception cref="T:FormatException">
+              <paramref name="s" /> does not represent a numeric value. </exception>
+            <exception cref="T:ArgumentException">
+              <paramref name="style" /> is not a <see cref="T:Globalization.NumberStyles" /> value. -or-<paramref name="style" /> is the <see cref="F:Globalization.NumberStyles.AllowHexSpecifier" /> value.</exception>
+            <exception cref="T:OverflowException">
+              <paramref name="s" /> represents a number that is less than <see cref="F:DoubleExt.MinValue" /> or greater than <see cref="F:DoubleExt.MaxValue" />. </exception>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.DoubleExt.Parse(System.String,System.IFormatProvider)">
+            <summary>Converts the string representation of a number in a specified culture-specific format to its DoubleExt-precision floating-point number equivalent.</summary>
+            <returns>A DoubleExt-precision floating-point number that is equivalent to the numeric value or symbol specified in <paramref name="s" />.</returns>
+            <param name="s">A string that contains a number to convert. </param>
+            <param name="provider">An object that supplies culture-specific formatting information about <paramref name="s" />. </param>
+            <exception cref="T:ArgumentNullException">
+              <paramref name="s" /> is null. </exception>
+            <exception cref="T:FormatException">
+              <paramref name="s" /> does not represent a number in a valid format. </exception>
+            <exception cref="T:OverflowException">
+              <paramref name="s" /> represents a number that is less than <see cref="F:DoubleExt.MinValue" /> or greater than <see cref="F:DoubleExt.MaxValue" />. </exception>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.DoubleExt.ToString">
+            <summary>Converts the numeric value of this instance to its equivalent string representation.</summary>
+            <returns>The string representation of the value of this instance.</returns>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.DoubleExt.ToString(System.IFormatProvider)">
+            <summary>Converts the numeric value of this instance to its equivalent string representation using the specified culture-specific format information.</summary>
+            <returns>The string representation of the value of this instance as specified by <paramref name="provider" />.</returns>
+            <param name="provider">An object that supplies culture-specific formatting information. </param>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.DoubleExt.ToString(System.String)">
+            <summary>Converts the numeric value of this instance to its equivalent string representation, using the specified format.</summary>
+            <returns>The string representation of the value of this instance as specified by <paramref name="format" />.</returns>
+            <param name="format">A numeric format string.</param>
+            <exception cref="T:FormatException">
+              <paramref name="format" /> is invalid. </exception>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.DoubleExt.ToString(System.String,System.IFormatProvider)">
+            <summary>Converts the numeric value of this instance to its equivalent string representation using the specified format and culture-specific format information.</summary>
+            <returns>The string representation of the value of this instance as specified by <paramref name="format" /> and <paramref name="provider" />.</returns>
+            <param name="format">A numeric format string.</param>
+            <param name="provider">An object that supplies culture-specific formatting information. </param>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.DoubleExt.TryParse(System.String,Syncfusion.UI.Xaml.Diagram.DoubleExt@)">
+            <summary>Converts the string representation of a number to its DoubleExt-precision floating-point number equivalent. A return value indicates whether the conversion succeeded or failed.</summary>
+            <returns>true if <paramref name="s" /> was converted successfully; otherwise, false.</returns>
+            <param name="s">A string containing a number to convert. </param>
+            <param name="result">When this method returns, contains the DoubleExt-precision floating-point number equivalent to the <paramref name="s" /> parameter, if the conversion succeeded, or zero if the conversion failed. The conversion fails if the <paramref name="s" /> parameter is null, is not a number in a valid format, or represents a number less than <see cref="F:DoubleExt.MinValue" /> or greater than <see cref="F:DoubleExt.MaxValue" />. This parameter is passed uninitialized. </param>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.DoubleExt.TryParse(System.String,System.Globalization.NumberStyles,System.IFormatProvider,Syncfusion.UI.Xaml.Diagram.DoubleExt@)">
+            <summary>Converts the string representation of a number in a specified style and culture-specific format to its DoubleExt-precision floating-point number equivalent. A return value indicates whether the conversion succeeded or failed.</summary>
+            <returns>true if <paramref name="s" /> was converted successfully; otherwise, false.</returns>
+            <param name="s">A string containing a number to convert. </param>
+            <param name="style">A bitwise combination of <see cref="T:Globalization.NumberStyles" /> values that indicates the permitted format of <paramref name="s" />. A typical value to specify is <see cref="F:Globalization.NumberStyles.Float" /> combined with <see cref="F:Globalization.NumberStyles.AllowThousands" />.</param>
+            <param name="provider">An <see cref="T:IFormatProvider" /> that supplies culture-specific formatting information about <paramref name="s" />. </param>
+            <param name="result">When this method returns, contains a DoubleExt-precision floating-point number equivalent to the numeric value or symbol contained in <paramref name="s" />, if the conversion succeeded, or zero if the conversion failed. The conversion fails if the <paramref name="s" /> parameter is null, is not in a format compliant with <paramref name="style" />, represents a number less than <see cref="F:SByte.MinValue" /> or greater than <see cref="F:SByte.MaxValue" />, or if <paramref name="style" /> is not a valid combination of <see cref="T:Globalization.NumberStyles" /> enumerated constants. This parameter is passed uninitialized. </param>
+            <exception cref="T:ArgumentException">
+              <paramref name="style" /> is not a <see cref="T:Globalization.NumberStyles" /> value. -or-<paramref name="style" /> includes the <see cref="F:Globalization.NumberStyles.AllowHexSpecifier" /> value.</exception>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.Utility.MatrixExt.#ctor(System.Double,System.Double,System.Double,System.Double,System.Double,System.Double)">
+            <summary> Initializes a new instance of the <see cref="T:System.Windows.Media.Matrix" /> structure. </summary>
+            <param name="m11">The new <see cref="T:System.Windows.Media.Matrix" /> structure's <see cref="P:System.Windows.Media.Matrix.M11" /> coefficient.</param>
+            <param name="m12">The new <see cref="T:System.Windows.Media.Matrix" /> structure's <see cref="P:System.Windows.Media.Matrix.M12" /> coefficient.</param>
+            <param name="m21">The new <see cref="T:System.Windows.Media.Matrix" /> structure's <see cref="P:System.Windows.Media.Matrix.M21" /> coefficient.</param>
+            <param name="m22">The new <see cref="T:System.Windows.Media.Matrix" /> structure's <see cref="P:System.Windows.Media.Matrix.M22" /> coefficient.</param>
+            <param name="offsetX">The new <see cref="T:System.Windows.Media.Matrix" /> structure's <see cref="P:System.Windows.Media.Matrix.OffsetX" /> coefficient.</param>
+            <param name="offsetY">The new <see cref="T:System.Windows.Media.Matrix" /> structure's <see cref="P:System.Windows.Media.Matrix.OffsetY" /> coefficient.</param>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.Utility.MatrixExt.SetIdentity">
+            <summary> Changes this <see cref="T:System.Windows.Media.Matrix" /> structure into an identity matrix. </summary>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.Utility.MatrixExt.op_Multiply(Syncfusion.UI.Xaml.Diagram.Utility.MatrixExt,Syncfusion.UI.Xaml.Diagram.Utility.MatrixExt)">
+            <summary> Multiplies a <see cref="T:System.Windows.Media.Matrix" /> structure by another <see cref="T:System.Windows.Media.Matrix" /> structure. </summary>
+            <returns>The result of multiplying <paramref name="trans1" /> by <paramref name="trans2" />.</returns>
+            <param name="trans1">The first <see cref="T:System.Windows.Media.Matrix" /> structure to multiply.</param>
+            <param name="trans2">The second <see cref="T:System.Windows.Media.Matrix" /> structure to multiply.</param>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.Utility.MatrixExt.Multiply(Syncfusion.UI.Xaml.Diagram.Utility.MatrixExt,Syncfusion.UI.Xaml.Diagram.Utility.MatrixExt)">
+            <summary> Multiplies a <see cref="T:System.Windows.Media.Matrix" /> structure by another <see cref="T:System.Windows.Media.Matrix" /> structure. </summary>
+            <returns>The result of multiplying <paramref name="trans1" /> by <paramref name="trans2" />.</returns>
+            <param name="trans1">The first <see cref="T:System.Windows.Media.Matrix" /> structure to multiply.</param>
+            <param name="trans2">The second <see cref="T:System.Windows.Media.Matrix" /> structure to multiply.</param>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.Utility.MatrixExt.Append(Syncfusion.UI.Xaml.Diagram.Utility.MatrixExt)">
+            <summary> Appends the specified <see cref="T:System.Windows.Media.Matrix" /> structure to this <see cref="T:System.Windows.Media.Matrix" /> structure. </summary>
+            <param name="matrix">The <see cref="T:System.Windows.Media.Matrix" /> structure to append to this <see cref="T:System.Windows.Media.Matrix" /> structure.</param>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.Utility.MatrixExt.Prepend(Syncfusion.UI.Xaml.Diagram.Utility.MatrixExt)">
+            <summary> Prepends the specified <see cref="T:System.Windows.Media.Matrix" /> structure onto this <see cref="T:System.Windows.Media.Matrix" /> structure. </summary>
+            <param name="matrix">The <see cref="T:System.Windows.Media.Matrix" /> structure to prepend to this <see cref="T:System.Windows.Media.Matrix" /> structure.</param>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.Utility.MatrixExt.Rotate(System.Double)">
+            <summary> Applies a rotation of the specified angle about the origin of this <see cref="T:System.Windows.Media.Matrix" /> structure. </summary>
+            <param name="angle">The angle of rotation.</param>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.Utility.MatrixExt.RotatePrepend(System.Double)">
+            <summary> Prepends a rotation of the specified angle to this <see cref="T:System.Windows.Media.Matrix" /> structure. </summary>
+            <param name="angle">The angle of rotation to prepend.</param>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.Utility.MatrixExt.RotateAt(System.Double,System.Double,System.Double)">
+            <summary>Rotates this matrix about the specified point.</summary>
+            <param name="angle">The angle, in degrees, by which to rotate this matrix. </param>
+            <param name="centerX">The x-coordinate of the point about which to rotate this matrix.</param>
+            <param name="centerY">The y-coordinate of the point about which to rotate this matrix.</param>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.Utility.MatrixExt.RotateAtPrepend(System.Double,System.Double,System.Double)">
+            <summary>Prepends a rotation of the specified angle at the specified point to this <see cref="T:System.Windows.Media.Matrix" /> structure.</summary>
+            <param name="angle">The rotation angle, in degrees.</param>
+            <param name="centerX">The x-coordinate of the rotation center.</param>
+            <param name="centerY">The y-coordinate of the rotation center.</param>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.Utility.MatrixExt.Scale(System.Double,System.Double)">
+            <summary> Appends the specified scale vector to this <see cref="T:System.Windows.Media.Matrix" /> structure. </summary>
+            <param name="scaleX">The value by which to scale this <see cref="T:System.Windows.Media.Matrix" /> along the x-axis.</param>
+            <param name="scaleY">The value by which to scale this <see cref="T:System.Windows.Media.Matrix" /> along the y-axis.</param>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.Utility.MatrixExt.ScalePrepend(System.Double,System.Double)">
+            <summary> Prepends the specified scale vector to this <see cref="T:System.Windows.Media.Matrix" /> structure. </summary>
+            <param name="scaleX">The value by which to scale this <see cref="T:System.Windows.Media.Matrix" /> structure along the x-axis.</param>
+            <param name="scaleY">The value by which to scale this <see cref="T:System.Windows.Media.Matrix" /> structure along the y-axis.</param>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.Utility.MatrixExt.ScaleAt(System.Double,System.Double,System.Double,System.Double)">
+            <summary>Scales this <see cref="T:System.Windows.Media.Matrix" /> by the specified amount about the specified point.</summary>
+            <param name="scaleX">The amount by which to scale this <see cref="T:System.Windows.Media.Matrix" /> along the x-axis. </param>
+            <param name="scaleY">The amount by which to scale this <see cref="T:System.Windows.Media.Matrix" /> along the y-axis.</param>
+            <param name="centerX">The x-coordinate of the scale operation's center point.</param>
+            <param name="centerY">The y-coordinate of the scale operation's center point.</param>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.Utility.MatrixExt.ScaleAtPrepend(System.Double,System.Double,System.Double,System.Double)">
+            <summary>Prepends the specified scale about the specified point of this <see cref="T:System.Windows.Media.Matrix" />.</summary>
+            <param name="scaleX">The x-axis scale factor.</param>
+            <param name="scaleY">The y-axis scale factor.</param>
+            <param name="centerX">The x-coordinate of the point about which the scale operation is performed.</param>
+            <param name="centerY">The y-coordinate of the point about which the scale operation is performed.</param>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.Utility.MatrixExt.Skew(System.Double,System.Double)">
+            <summary> Appends a skew of the specified degrees in the x and y dimensions to this <see cref="T:System.Windows.Media.Matrix" /> structure. </summary>
+            <param name="skewX">The angle in the x dimension by which to skew this <see cref="T:System.Windows.Media.Matrix" />.</param>
+            <param name="skewY">The angle in the y dimension by which to skew this <see cref="T:System.Windows.Media.Matrix" />.</param>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.Utility.MatrixExt.SkewPrepend(System.Double,System.Double)">
+            <summary> Prepends a skew of the specified degrees in the x and y dimensions to this <see cref="T:System.Windows.Media.Matrix" /> structure. </summary>
+            <param name="skewX">The angle in the x dimension by which to skew this <see cref="T:System.Windows.Media.Matrix" />.</param>
+            <param name="skewY">The angle in the y dimension by which to skew this <see cref="T:System.Windows.Media.Matrix" />.</param>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.Utility.MatrixExt.Translate(System.Double,System.Double)">
+            <summary> Appends a translation of the specified offsets to this <see cref="T:System.Windows.Media.Matrix" /> structure. </summary>
+            <param name="offsetX">The amount to offset this <see cref="T:System.Windows.Media.Matrix" /> along the x-axis.</param>
+            <param name="offsetY">The amount to offset this <see cref="T:System.Windows.Media.Matrix" /> along the y-axis.</param>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.Utility.MatrixExt.TranslatePrepend(System.Double,System.Double)">
+            <summary> Prepends a translation of the specified offsets to this <see cref="T:System.Windows.Media.Matrix" /> structure. </summary>
+            <param name="offsetX">The amount to offset this <see cref="T:System.Windows.Media.Matrix" /> along the x-axis.</param>
+            <param name="offsetY">The amount to offset this <see cref="T:System.Windows.Media.Matrix" /> along the y-axis.</param>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.Utility.MatrixExt.Transform(Windows.Foundation.Point)">
+            <summary>Transforms the specified point by the <see cref="T:System.Windows.Media.Matrix" /> and returns the result.</summary>
+            <returns>The result of transforming <paramref name="point" /> by this <see cref="T:System.Windows.Media.Matrix" />.</returns>
+            <param name="point">The point to transform.</param>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.Utility.MatrixExt.Transform(Windows.Foundation.Point[])">
+            <summary>Transforms the specified points by this <see cref="T:System.Windows.Media.Matrix" />. </summary>
+            <param name="points">The points to transform. The original points in the array are replaced by their transformed values.</param>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.Utility.MatrixExt.Invert">
+            <summary> Inverts this <see cref="T:System.Windows.Media.Matrix" /> structure. </summary>
+            <exception cref="T:System.InvalidOperationException">The <see cref="T:System.Windows.Media.Matrix" /> structure is not invertible.</exception>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.Utility.MatrixExt.op_Equality(Syncfusion.UI.Xaml.Diagram.Utility.MatrixExt,Syncfusion.UI.Xaml.Diagram.Utility.MatrixExt)">
+            <summary> Determines whether the two specified <see cref="T:System.Windows.Media.Matrix" /> structures are identical.</summary>
+            <returns>true if <paramref name="matrix1" /> and <paramref name="matrix2" /> are identical; otherwise, false.</returns>
+            <param name="matrix1">The first <see cref="T:System.Windows.Media.Matrix" /> structure to compare.</param>
+            <param name="matrix2">The second <see cref="T:System.Windows.Media.Matrix" /> structure to compare.</param>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.Utility.MatrixExt.op_Inequality(Syncfusion.UI.Xaml.Diagram.Utility.MatrixExt,Syncfusion.UI.Xaml.Diagram.Utility.MatrixExt)">
+            <summary> Determines whether the two specified <see cref="T:System.Windows.Media.Matrix" /> structures are not identical.</summary>
+            <returns>true if <paramref name="matrix1" /> and <paramref name="matrix2" /> are not identical; otherwise, false.</returns>
+            <param name="matrix1">The first <see cref="T:System.Windows.Media.Matrix" /> structure to compare.</param>
+            <param name="matrix2">The second <see cref="T:System.Windows.Media.Matrix" /> structure to compare.</param>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.Utility.MatrixExt.Equals(Syncfusion.UI.Xaml.Diagram.Utility.MatrixExt,Syncfusion.UI.Xaml.Diagram.Utility.MatrixExt)">
+            <summary> Determines whether the two specified <see cref="T:System.Windows.Media.Matrix" /> structures are identical.</summary>
+            <returns>true if <paramref name="matrix1" /> and <paramref name="matrix2" /> are identical; otherwise, false.</returns>
+            <param name="matrix1">The first <see cref="T:System.Windows.Media.Matrix" /> structure to compare.</param>
+            <param name="matrix2">The second <see cref="T:System.Windows.Media.Matrix" /> structure to compare.</param>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.Utility.MatrixExt.Equals(System.Object)">
+            <summary> Determines whether the specified <see cref="T:System.Object" /> is a <see cref="T:System.Windows.Media.Matrix" /> structure that is identical to this <see cref="T:System.Windows.Media.Matrix" />. </summary>
+            <returns>true if <paramref name="o" /> is a <see cref="T:System.Windows.Media.Matrix" /> structure that is identical to this <see cref="T:System.Windows.Media.Matrix" /> structure; otherwise, false.</returns>
+            <param name="o">The <see cref="T:System.Object" /> to compare.</param>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.Utility.MatrixExt.Equals(Syncfusion.UI.Xaml.Diagram.Utility.MatrixExt)">
+            <summary> Determines whether the specified <see cref="T:System.Windows.Media.Matrix" /> structure is identical to this instance. </summary>
+            <returns>true if instances are equal; otherwise, false. </returns>
+            <param name="value">The instance of <see cref="T:System.Windows.Media.Matrix" /> to compare to this instance.</param>
+        </member>
+        <member name="M:Syncfusion.UI.Xaml.Diagram.Utility.MatrixExt.GetHashCode">
+            <summary> Returns the hash code for this <see cref="T:System.Windows.Media.Matrix" /> structure. </summary>
+            <returns>The hash code for this instance.</returns>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.Utility.MatrixExt.Identity">
+            <summary> Gets an identity <see cref="T:System.Windows.Media.Matrix" />. </summary>
+            <returns>An identity matrix.</returns>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.Utility.MatrixExt.IsIdentity">
+            <summary> Gets a value that indicates whether this <see cref="T:System.Windows.Media.Matrix" /> structure is an identity matrix. </summary>
+            <returns>true if the <see cref="T:System.Windows.Media.Matrix" /> structure is an identity matrix; otherwise, false. The default is true.</returns>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.Utility.MatrixExt.Determinant">
+            <summary> Gets the determinant of this <see cref="T:System.Windows.Media.Matrix" /> structure. </summary>
+            <returns>The determinant of this <see cref="T:System.Windows.Media.Matrix" />.</returns>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.Utility.MatrixExt.HasInverse">
+            <summary> Gets a value that indicates whether this <see cref="T:System.Windows.Media.Matrix" /> structure is invertible. </summary>
+            <returns>true if the <see cref="T:System.Windows.Media.Matrix" /> has an inverse; otherwise, false. The default is true.</returns>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.Utility.MatrixExt.M11">
+            <summary>Gets or sets the value of the first row and first column of this <see cref="T:System.Windows.Media.Matrix" /> structure. </summary>
+            <returns>The value of the first row and first column of this <see cref="T:System.Windows.Media.Matrix" />. The default value is 1.</returns>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.Utility.MatrixExt.M12">
+            <summary> Gets or sets the value of the first row and second column of this <see cref="T:System.Windows.Media.Matrix" /> structure. </summary>
+            <returns>The value of the first row and second column of this <see cref="T:System.Windows.Media.Matrix" />. The default value is 0.</returns>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.Utility.MatrixExt.M21">
+            <summary> Gets or sets the value of the second row and first column of this <see cref="T:System.Windows.Media.Matrix" /> structure.</summary>
+            <returns>The value of the second row and first column of this <see cref="T:System.Windows.Media.Matrix" />. The default value is 0.</returns>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.Utility.MatrixExt.M22">
+            <summary>Gets or sets the value of the second row and second column of this <see cref="T:System.Windows.Media.Matrix" /> structure. </summary>
+            <returns>The value of the second row and second column of this <see cref="T:System.Windows.Media.Matrix" /> structure. The default value is 1.</returns>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.Utility.MatrixExt.OffsetX">
+            <summary>Gets or sets the value of the third row and first column of this <see cref="T:System.Windows.Media.Matrix" /> structure.  </summary>
+            <returns>The value of the third row and first column of this <see cref="T:System.Windows.Media.Matrix" /> structure. The default value is 0.</returns>
+        </member>
+        <member name="P:Syncfusion.UI.Xaml.Diagram.Utility.MatrixExt.OffsetY">
+            <summary>Gets or sets the value of the third row and second column of this <see cref="T:System.Windows.Media.Matrix" /> structure. </summary>
+            <returns>The value of the third row and second column of this <see cref="T:System.Windows.Media.Matrix" /> structure. The default value is 0.</returns>
+        </member>
+        <member name="T:Syncfusion.UI.Xaml.Diagram.Utility.DoubleExtensions">
+            <summary>
+            Utility class provides extension methords for Primitive DataType: Double, Points, Size
+            </summary>
+        </member>
+    </members>
+</doc>

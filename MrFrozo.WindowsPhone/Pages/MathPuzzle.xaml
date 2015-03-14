@@ -1,0 +1,59 @@
+﻿<Page
+    x:Class="MrFrozo.Pages.MathPuzzle"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:MrFrozo.Pages"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}"
+    Loaded="Page_Loaded">
+
+    <Grid x:Name="LayoutRoot">
+
+        <Grid.ChildrenTransitions>
+            <TransitionCollection>
+                <EntranceThemeTransition/>
+            </TransitionCollection>
+        </Grid.ChildrenTransitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Title Panel -->
+        <StackPanel Grid.Row="0" Margin="19,0,0,0">
+            <TextBlock Text="100%" Style="{ThemeResource TitleTextBlockStyle}" Margin="0,12,0,0"/>
+            <TextBlock Text="puzzle" Margin="0,-6.5,0,26.5" Style="{ThemeResource HeaderTextBlockStyle}" CharacterSpacing="{ThemeResource PivotHeaderItemCharacterSpacing}"/>
+        </StackPanel>
+
+        <!--TODO: Content should be placed within the following grid-->
+        <Grid Grid.Row="1" Name="mainGrid" 
+              Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" 
+              HorizontalAlignment="Stretch" VerticalAlignment="Stretch"
+              Margin="30">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+            </Grid.RowDefinitions>
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="auto"/>
+                <ColumnDefinition Width="auto"/>
+                <ColumnDefinition Width="auto"/>
+            </Grid.ColumnDefinitions>
+
+            <Button Grid.Row="0" Grid.Column="0" Name="btn1" Content="1" Click="btn1_Click" Style="{StaticResource PuzzleButtonStyle}"/>
+            <Button Grid.Row="0" Grid.Column="1" Name="btn2" Content="2" Click="btn2_Click" Style="{StaticResource PuzzleButtonStyle}"/>
+            <Button Grid.Row="0" Grid.Column="2" Name="btn3" Content="3" Click="btn3_Click" Style="{StaticResource PuzzleButtonStyle}"/>
+            <Button Grid.Row="1" Grid.Column="0" Name="btn4" Content="4" Click="btn4_Click" Style="{StaticResource PuzzleButtonStyle}"/>
+            <Button Grid.Row="1" Grid.Column="1" Name="btn5" Content="5" Click="btn5_Click" Style="{StaticResource PuzzleButtonStyle}"/>
+            <Button Grid.Row="1" Grid.Column="2" Name="btn6" Content="6" Click="btn6_Click" Style="{StaticResource PuzzleButtonStyle}"/>
+            <Button Grid.Row="2" Grid.Column="0" Name="btn7" Content="7" Click="btn7_Click" Style="{StaticResource PuzzleButtonStyle}"/>
+            <Button Grid.Row="2" Grid.Column="1" Name="btn8" Content="8" Click="btn8_Click" Style="{StaticResource PuzzleButtonStyle}"/>
+            <Button Grid.Row="2" Grid.Column="2" Name="btn9" Content="" Click="btn9_Click" Style="{StaticResource PuzzleButtonStyle}"/>
+        </Grid>
+    </Grid>
+</Page>

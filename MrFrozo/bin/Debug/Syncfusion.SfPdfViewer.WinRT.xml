@@ -1,0 +1,154 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Syncfusion.SfPdfViewer.WinRT</name>
+    </assembly>
+    <members>
+        <member name="M:Syncfusion.Windows.PdfViewer.PdfDocumentView.Print">
+            <summary>
+            Print the pages in viewer.
+            </summary>
+        </member>
+        <member name="M:Syncfusion.Windows.PdfViewer.PdfDocumentView.PrepareForPrint(System.Int32,System.Int32)">
+            <summary>
+            Prepare images for print.
+            </summary>
+        </member>
+        <member name="M:Syncfusion.Windows.PdfViewer.PdfDocumentView.PrepareForPrint(System.Int32,System.Int32,Windows.Storage.StorageFolder)">
+            <summary>
+            Prepare images for print.
+            </summary>
+        </member>
+        <member name="M:Syncfusion.Windows.PdfViewer.PdfDocumentView.RegisterForPrint">
+            <summary>
+            Registers and triggers print events.
+            </summary>
+        </member>
+        <member name="M:Syncfusion.Windows.PdfViewer.PdfDocumentView.CreatePrintPreviewPages(System.Object,Windows.UI.Xaml.Printing.PaginateEventArgs)">
+            <summary>
+            Pages are prepared for preview.
+            </summary>
+        </member>
+        <member name="M:Syncfusion.Windows.PdfViewer.PdfDocumentView.AddOnePrintPreviewPage">
+            <summary>
+            Addes the pages for preview.
+            </summary>
+        </member>
+        <member name="M:Syncfusion.Windows.PdfViewer.PdfDocumentView.GetPrintPreviewPage(System.Object,Windows.UI.Xaml.Printing.GetPreviewPageEventArgs)">
+            <summary>
+            Sets the specific page as preview.
+            </summary>
+        </member>
+        <member name="M:Syncfusion.Windows.PdfViewer.PdfDocumentView.AddPrintPages(System.Object,Windows.UI.Xaml.Printing.AddPagesEventArgs)">
+            <summary>
+            Adds the pages to the print document and notifies the print list.
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Syncfusion.Windows.PdfViewer.PdfDocumentView.UnregisterForPrint">
+            <summary>
+            Unregisters print events.
+            </summary>
+        </member>
+        <!-- Badly formed XML comment ignored for member "T:Syncfusion.Windows.PdfViewer.UIDispatcher" -->
+        <member name="M:Syncfusion.Windows.PdfViewer.UIDispatcher.Execute(System.Action)">
+            <summary>
+            Executes the action using UIElement.
+            </summary>
+            <param name="action">An Action.</param>
+        </member>
+        <member name="M:Syncfusion.Windows.PdfViewer.SfPdfViewerControl.Print">
+            <summary>
+            Prints all pages in the viewer.
+            </summary>
+        </member>
+        <member name="M:Syncfusion.Windows.PdfViewer.SfPdfViewerControl.LoadDocumentAsync(Syncfusion.Pdf.Parsing.PdfLoadedDocument)">
+            <summary>
+            Load the PDF document into the PdfViewer control
+            </summary>
+        </member>
+        <member name="M:Syncfusion.Windows.PdfViewer.SfPdfViewerControl.GetPage(System.Int32)">
+            <summary>
+            Outputs an Image, which represents a Portable Document Format (PDF) page's contents
+            </summary>
+            <param name="pageIndex">Index of the page to be extracted as image</param>
+            <returns>Content of the page as Image</returns>
+        </member>
+        <member name="M:Syncfusion.Windows.PdfViewer.SfPdfViewerControl.GetPage(System.Int32,System.Int32)">
+            <summary>
+            Outputs an Image, which represents a Portable Document Format (PDF)
+                page's contents with custom magnification
+            </summary>
+            <param name="pageIndex">Index of the page to be extracted as image</param>
+            <param name="zoomFactor">The magnification factor</param>
+            <returns>Content of the page with custom magnification as Image</returns>
+        </member>
+        <member name="M:Syncfusion.Windows.PdfViewer.SfPdfViewerControl.GetPages(System.Int32,System.Int32)">
+            <summary>
+            Outputs an array of Image, which represents a Portable Document Format (PDF)
+                page's contents
+            </summary>
+            <param name="startIndex">Index of the starting page</param>
+            <param name="endIndex">Index of the ending page</param>
+            <returns>Content of the page as Image array</returns>
+        </member>
+        <member name="M:Syncfusion.Windows.PdfViewer.SfPdfViewerControl.GetPages(System.Int32,System.Int32,System.Int32)">
+            <summary>
+            Outputs an array of Image, which represents a Portable Document Format (PDF)
+                page's contents with custom magnification
+            </summary>
+            <param name="startIndex">Index of the starting page</param>
+            <param name="endIndex">Content of the page as Image array</param>
+            <param name="zoomFactor">The magnification factor</param>
+            <returns>Content of the page with custom magnification as Image array</returns>
+        </member>
+        <member name="M:Syncfusion.Windows.PdfViewer.SfPdfViewerControl.ZoomTo(System.Int32)">
+            <summary>
+            Zooms the document to the specified percentage
+            </summary>
+            <param name="percentage">The percentage between 100 to 300</param>
+        </member>
+        <member name="P:Syncfusion.Windows.PdfViewer.SfPdfViewerControl.PageCount">
+            <summary>
+            Gets the total page count
+            </summary>
+        </member>
+        <member name="M:Syncfusion.Windows.PdfViewer.DelegateCommand.#ctor(System.Action{System.Object},System.Func{System.Object,System.Boolean})">
+            <summary>
+            Initializes a new instance of the <see cref="T:Syncfusion.Windows.PdfViewer.DelegateCommand"/> class.
+            </summary>
+            <param name="executeAction">The execute action.</param>
+            <param name="canExecute">The can execute.</param>
+        </member>
+        <member name="M:Syncfusion.Windows.PdfViewer.DelegateCommand.CanExecute(System.Object)">
+            <summary>
+            Defines the method that determines whether the command 
+            can execute in its current state.
+            </summary>
+            <param name="parameter">
+            Data used by the command. 
+            If the command does not require data to be passed,
+            this object can be set to null.
+            </param>
+            <returns>
+            true if this command can be executed; otherwise, false.
+            </returns>
+        </member>
+        <member name="M:Syncfusion.Windows.PdfViewer.DelegateCommand.Execute(System.Object)">
+            <summary>
+            Defines the method to be called when the command is invoked.
+            </summary>
+            <param name="parameter">
+            Data used by the command. 
+            If the command does not require data to be passed, 
+            this object can be set to null.
+            </param>
+        </member>
+        <member name="E:Syncfusion.Windows.PdfViewer.DelegateCommand.CanExecuteChanged">
+            <summary>
+            Occurs when changes occur that affect whether the command should execute.
+            </summary>
+        </member>
+    </members>
+</doc>

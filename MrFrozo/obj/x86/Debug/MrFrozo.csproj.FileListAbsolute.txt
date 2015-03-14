@@ -1,0 +1,866 @@
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\App.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Pages\EngGrammar.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Pages\EnglishPage.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Pages\EngPuzzle.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Pages\MainPage.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\MyResources.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Pages\MathAdditionPage.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Pages\MathPage.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Pages\MathPuzzle.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Pages\MathSubtractionPage.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Pages\WelcomePage.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfChart.WinRT\ChartArea\Themes\ChartArea.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfChart.WinRT\ChartAxis\Themes\ChartAxis.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfChart.WinRT\3D\ChartSeries\Themes\ChartSeries.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfChart.WinRT\ChartSeries\Themes\ChartSeries.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfGauge.WinRT\CircularGauge\Themes\CircularGauge.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfMaps.WinRT\Themes\ColorPalette.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfGauge.WinRT\DigitalGauge\Themes\DigitalGauge.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfChart.WinRT\Themes\Generic.Common.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfChart.WinRT\Themes\Generic.Legend.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfChart.WinRT\Themes\Generic.Symbol.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.GridCommon.WinRT\Themes\Generic.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfAccordion.WinRT\Themes\generic.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfBarcode.WinRT\Themes\Generic.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfBulletGraph.WinRT\Themes\Generic.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfBusyIndicator.WinRT\Themes\generic.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfCarousel.WinRT\Themes\generic.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfChart.WinRT\Themes\generic.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfColorPickers.WinRT\Themes\generic.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfDiagram.WinRT\Themes\Generic.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfGauge.WinRT\Themes\Generic.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfGrid.WinRT\ColumnChooser\Themes\Generic.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfGrid.WinRT\Control\DetailsView\Themes\Generic.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfGrid.WinRT\Control\GroupDropArea\Themes\Generic.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfGrid.WinRT\Control\Themes\Generic.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfGrid.WinRT\DataPager\Themes\Generic.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfGrid.WinRT\ExcelLikeFiltering\Themes\Generic.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfGrid.WinRT\GridCommon\Themes\Generic.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfGrid.WinRT\MultiColumnDropDownControl\Themes\Generic.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfGrid.WinRT\Print\Themes\Generic.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfGrid.WinRT\Themes\Generic.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfGridBase.WinRT\Themes\Generic.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfHubTile.WinRT\Themes\generic.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfInput.WinRT\Themes\generic.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfMaps.WinRT\Themes\Generic.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfRadialMenu.WinRT\Themes\generic.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfReportViewer.WinRT\Themes\Generic.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfRichTextBoxAdv.WinRT\Themes\Generic.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfSchedule.WinRT\Themes\generic.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfShared.WinRT\Themes\generic.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfTabControl.WinRT\Themes\generic.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfTileView.WinRT\Themes\generic.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfTreeMap.WinRT\Themes\Generic.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfTreeNavigator.WinRT\Themes\generic.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfDiagram.WinRT\Themes\GenericWinRT.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfGauge.WinRT\LinearGauge\Themes\LinearGauge.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfChart.WinRT\Controls\Themes\ResizableScrollBar.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfChart.WinRT\Controls\Themes\Resizer.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfSchedule.WinRT\Themes\ScheduleAppointmentResources.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfSchedule.WinRT\Themes\ScheduleDaysViewResources.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfSchedule.WinRT\Themes\ScheduleMonthViewResources.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfSchedule.WinRT\Themes\ScheduleTimeLineViewResources.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfChart.WinRT\3D\ChartArea\Themes\SfChart3D.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfChart.WinRT\Controls\Themes\SfRangeNavigator.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfChart.WinRT\Sparkline\Themes\Sparkline.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfGrid.WinRT\Styles\Styles.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfMaps.WinRT\Themes\Templates.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfDiagram.WinRT\Themes\WinRTResource.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\MrFrozo.exe
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\MrFrozo.pdb
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\resources.pri
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\AppxManifest.xml
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\MrFrozo.build.appxrecipe
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.Data.WinRT.dll
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.Data.WinRT.xml
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.DocIO.WinRT.dll
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.DocIO.WinRT.xml
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.GridCommon.WinRT.dll
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.GridCommon.WinRT.xml
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.Pdf.WinRT.dll
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.Pdf.WinRT.xml
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfAccordion.WinRT.dll
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfAccordion.WinRT.xml
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfBarcode.WinRT.dll
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfBarcode.WinRT.xml
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfBulletGraph.WinRT.dll
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfBulletGraph.WinRT.xml
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfBusyIndicator.WinRT.dll
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfBusyIndicator.WinRT.xml
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfCarousel.WinRT.dll
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfCarousel.WinRT.xml
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfChart.WinRT.dll
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfColorPickers.WinRT.dll
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfColorPickers.WinRT.xml
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfDiagram.WinRT.dll
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfDiagram.WinRT.xml
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfGauge.WinRT.dll
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfGauge.WinRT.xml
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfGrid.WinRT.dll
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfGrid.WinRT.xml
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfGridBase.WinRT.dll
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfGridBase.WinRT.xml
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfGridConverter.WinRT.dll
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfGridConverter.WinRT.xml
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfHubTile.WinRT.dll
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfHubTile.WinRT.xml
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfInput.WinRT.dll
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfInput.WinRT.xml
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfMaps.WinRT.dll
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfMaps.WinRT.xml
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfPdfViewer.WinRT.dll
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfPdfViewer.WinRT.xml
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfRadialMenu.WinRT.dll
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfRadialMenu.WinRT.xml
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfReportViewer.WinRT.dll
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfReportViewer.WinRT.xml
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfRichTextBoxAdv.WinRT.dll
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfRichTextBoxAdv.WinRT.xml
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfSchedule.WinRT.dll
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfSchedule.WinRT.xml
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfShared.WinRT.dll
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfShared.WinRT.xml
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfTabControl.WinRT.dll
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfTabControl.WinRT.xml
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfTileView.WinRT.dll
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfTileView.WinRT.xml
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfTreeMap.WinRT.dll
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfTreeMap.WinRT.xml
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfTreeNavigator.WinRT.dll
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfTreeNavigator.WinRT.xml
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.XlsIO.WinRT.dll
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.XlsIO.WinRT.xml
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\App.g.i.cs
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\App.g.cs
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Pages\EngGrammar.g.i.cs
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Pages\EngGrammar.g.cs
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Pages\EnglishPage.g.i.cs
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Pages\EnglishPage.g.cs
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Pages\EngPuzzle.g.i.cs
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Pages\EngPuzzle.g.cs
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MainPage.g.i.cs
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MainPage.g.cs
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\MyResources.g.i.cs
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\MyResources.g.cs
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MathAdditionPage.g.i.cs
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MathAdditionPage.g.cs
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MathPage.g.i.cs
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MathPage.g.cs
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MathPuzzle.g.i.cs
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MathPuzzle.g.cs
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MathSubtractionPage.g.i.cs
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MathSubtractionPage.g.cs
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Pages\WelcomePage.g.i.cs
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Pages\WelcomePage.g.cs
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\App.xaml
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Pages\EngGrammar.xaml
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Pages\EnglishPage.xaml
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Pages\EngPuzzle.xaml
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MainPage.xaml
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\MyResources.xaml
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MathAdditionPage.xaml
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MathPage.xaml
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MathPuzzle.xaml
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MathSubtractionPage.xaml
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Pages\WelcomePage.xaml
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\App.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Pages\EngGrammar.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Pages\EnglishPage.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Pages\EngPuzzle.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MainPage.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\MyResources.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MathAdditionPage.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MathPage.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MathPuzzle.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MathSubtractionPage.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Pages\WelcomePage.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Syncfusion.SfChart.WinRT\ChartArea\Themes\ChartArea.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Syncfusion.SfChart.WinRT\ChartAxis\Themes\ChartAxis.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Syncfusion.SfChart.WinRT\3D\ChartSeries\Themes\ChartSeries.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Syncfusion.SfChart.WinRT\ChartSeries\Themes\ChartSeries.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Syncfusion.SfGauge.WinRT\CircularGauge\Themes\CircularGauge.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Syncfusion.SfMaps.WinRT\Themes\ColorPalette.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Syncfusion.SfGauge.WinRT\DigitalGauge\Themes\DigitalGauge.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Syncfusion.SfChart.WinRT\Themes\Generic.Common.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Syncfusion.SfChart.WinRT\Themes\Generic.Legend.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Syncfusion.SfChart.WinRT\Themes\Generic.Symbol.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Syncfusion.GridCommon.WinRT\Themes\Generic.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Syncfusion.SfAccordion.WinRT\Themes\generic.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Syncfusion.SfBarcode.WinRT\Themes\Generic.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Syncfusion.SfBulletGraph.WinRT\Themes\Generic.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Syncfusion.SfBusyIndicator.WinRT\Themes\generic.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Syncfusion.SfCarousel.WinRT\Themes\generic.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Syncfusion.SfChart.WinRT\Themes\generic.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Syncfusion.SfColorPickers.WinRT\Themes\generic.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Syncfusion.SfDiagram.WinRT\Themes\Generic.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Syncfusion.SfGauge.WinRT\Themes\Generic.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Syncfusion.SfGrid.WinRT\ColumnChooser\Themes\Generic.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Syncfusion.SfGrid.WinRT\Control\DetailsView\Themes\Generic.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Syncfusion.SfGrid.WinRT\Control\GroupDropArea\Themes\Generic.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Syncfusion.SfGrid.WinRT\Control\Themes\Generic.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Syncfusion.SfGrid.WinRT\DataPager\Themes\Generic.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Syncfusion.SfGrid.WinRT\ExcelLikeFiltering\Themes\Generic.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Syncfusion.SfGrid.WinRT\GridCommon\Themes\Generic.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Syncfusion.SfGrid.WinRT\MultiColumnDropDownControl\Themes\Generic.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Syncfusion.SfGrid.WinRT\Print\Themes\Generic.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Syncfusion.SfGrid.WinRT\Themes\Generic.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Syncfusion.SfGridBase.WinRT\Themes\Generic.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Syncfusion.SfHubTile.WinRT\Themes\generic.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Syncfusion.SfInput.WinRT\Themes\generic.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Syncfusion.SfMaps.WinRT\Themes\Generic.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Syncfusion.SfRadialMenu.WinRT\Themes\generic.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Syncfusion.SfReportViewer.WinRT\Themes\Generic.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Syncfusion.SfRichTextBoxAdv.WinRT\Themes\Generic.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Syncfusion.SfSchedule.WinRT\Themes\generic.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Syncfusion.SfShared.WinRT\Themes\generic.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Syncfusion.SfTabControl.WinRT\Themes\generic.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Syncfusion.SfTileView.WinRT\Themes\generic.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Syncfusion.SfTreeMap.WinRT\Themes\Generic.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Syncfusion.SfTreeNavigator.WinRT\Themes\generic.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Syncfusion.SfDiagram.WinRT\Themes\GenericWinRT.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Syncfusion.SfGauge.WinRT\LinearGauge\Themes\LinearGauge.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Syncfusion.SfChart.WinRT\Controls\Themes\ResizableScrollBar.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Syncfusion.SfChart.WinRT\Controls\Themes\Resizer.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Syncfusion.SfSchedule.WinRT\Themes\ScheduleAppointmentResources.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Syncfusion.SfSchedule.WinRT\Themes\ScheduleDaysViewResources.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Syncfusion.SfSchedule.WinRT\Themes\ScheduleMonthViewResources.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Syncfusion.SfSchedule.WinRT\Themes\ScheduleTimeLineViewResources.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Syncfusion.SfChart.WinRT\3D\ChartArea\Themes\SfChart3D.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Syncfusion.SfChart.WinRT\Controls\Themes\SfRangeNavigator.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Syncfusion.SfChart.WinRT\Sparkline\Themes\Sparkline.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Syncfusion.SfGrid.WinRT\Styles\Styles.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Syncfusion.SfMaps.WinRT\Themes\Templates.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\Syncfusion.SfDiagram.WinRT\Themes\WinRTResource.xbf
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\MrFrozo.exe
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\MrFrozo.pdb
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\MrFrozo.csproj.GenerateResource.Cache
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\priconfig.xml
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\layout.resfiles
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\resources.resfiles
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\pri.resfiles
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\qualifiers.txt
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\MUNENE\Desktop\MrFrozo\MrFrozo\obj\x86\Debug\ProjectArchitectures.txt
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\App.xbf
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Pages\EngGrammar.xbf
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Pages\EnglishPage.xbf
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Pages\EngPuzzle.xbf
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Pages\MainPage.xbf
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\MyResources.xbf
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Pages\MathAdditionPage.xbf
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Pages\MathPage.xbf
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Pages\MathPuzzle.xbf
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Pages\MathSubtractionPage.xbf
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Pages\WelcomePage.xbf
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfChart.WinRT\ChartArea\Themes\ChartArea.xbf
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfChart.WinRT\ChartAxis\Themes\ChartAxis.xbf
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfChart.WinRT\3D\ChartSeries\Themes\ChartSeries.xbf
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfChart.WinRT\ChartSeries\Themes\ChartSeries.xbf
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfGauge.WinRT\CircularGauge\Themes\CircularGauge.xbf
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfMaps.WinRT\Themes\ColorPalette.xbf
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfGauge.WinRT\DigitalGauge\Themes\DigitalGauge.xbf
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfChart.WinRT\Themes\Generic.Common.xbf
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfChart.WinRT\Themes\Generic.Legend.xbf
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfChart.WinRT\Themes\Generic.Symbol.xbf
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.GridCommon.WinRT\Themes\Generic.xbf
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfAccordion.WinRT\Themes\generic.xbf
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfBarcode.WinRT\Themes\Generic.xbf
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfBulletGraph.WinRT\Themes\Generic.xbf
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfBusyIndicator.WinRT\Themes\generic.xbf
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfCarousel.WinRT\Themes\generic.xbf
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfChart.WinRT\Themes\generic.xbf
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfColorPickers.WinRT\Themes\generic.xbf
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfDiagram.WinRT\Themes\Generic.xbf
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfGauge.WinRT\Themes\Generic.xbf
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfGrid.WinRT\ColumnChooser\Themes\Generic.xbf
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfGrid.WinRT\Control\DetailsView\Themes\Generic.xbf
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfGrid.WinRT\Control\GroupDropArea\Themes\Generic.xbf
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfGrid.WinRT\Control\Themes\Generic.xbf
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfGrid.WinRT\DataPager\Themes\Generic.xbf
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfGrid.WinRT\ExcelLikeFiltering\Themes\Generic.xbf
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfGrid.WinRT\GridCommon\Themes\Generic.xbf
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfGrid.WinRT\MultiColumnDropDownControl\Themes\Generic.xbf
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfGrid.WinRT\Print\Themes\Generic.xbf
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfGrid.WinRT\Themes\Generic.xbf
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfGridBase.WinRT\Themes\Generic.xbf
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfHubTile.WinRT\Themes\generic.xbf
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfInput.WinRT\Themes\generic.xbf
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfMaps.WinRT\Themes\Generic.xbf
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfRadialMenu.WinRT\Themes\generic.xbf
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfReportViewer.WinRT\Themes\Generic.xbf
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfRichTextBoxAdv.WinRT\Themes\Generic.xbf
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfSchedule.WinRT\Themes\generic.xbf
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfShared.WinRT\Themes\generic.xbf
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfTabControl.WinRT\Themes\generic.xbf
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfTileView.WinRT\Themes\generic.xbf
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfTreeMap.WinRT\Themes\Generic.xbf
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfTreeNavigator.WinRT\Themes\generic.xbf
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfDiagram.WinRT\Themes\GenericWinRT.xbf
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfGauge.WinRT\LinearGauge\Themes\LinearGauge.xbf
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfChart.WinRT\Controls\Themes\ResizableScrollBar.xbf
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfChart.WinRT\Controls\Themes\Resizer.xbf
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfSchedule.WinRT\Themes\ScheduleAppointmentResources.xbf
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfSchedule.WinRT\Themes\ScheduleDaysViewResources.xbf
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfSchedule.WinRT\Themes\ScheduleMonthViewResources.xbf
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfSchedule.WinRT\Themes\ScheduleTimeLineViewResources.xbf
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfChart.WinRT\3D\ChartArea\Themes\SfChart3D.xbf
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfChart.WinRT\Controls\Themes\SfRangeNavigator.xbf
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfChart.WinRT\Sparkline\Themes\Sparkline.xbf
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfGrid.WinRT\Styles\Styles.xbf
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfMaps.WinRT\Themes\Templates.xbf
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfDiagram.WinRT\Themes\WinRTResource.xbf
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\MrFrozo.exe
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\MrFrozo.pdb
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\resources.pri
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\AppxManifest.xml
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\MrFrozo.build.appxrecipe
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.Data.WinRT.dll
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.Data.WinRT.xml
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.DocIO.WinRT.dll
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.DocIO.WinRT.xml
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.GridCommon.WinRT.dll
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.GridCommon.WinRT.xml
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.Pdf.WinRT.dll
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.Pdf.WinRT.xml
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfAccordion.WinRT.dll
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfAccordion.WinRT.xml
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfBarcode.WinRT.dll
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfBarcode.WinRT.xml
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfBulletGraph.WinRT.dll
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfBulletGraph.WinRT.xml
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfBusyIndicator.WinRT.dll
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfBusyIndicator.WinRT.xml
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfCarousel.WinRT.dll
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfCarousel.WinRT.xml
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfChart.WinRT.dll
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfColorPickers.WinRT.dll
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfColorPickers.WinRT.xml
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfDiagram.WinRT.dll
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfDiagram.WinRT.xml
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfGauge.WinRT.dll
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfGauge.WinRT.xml
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfGrid.WinRT.dll
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfGrid.WinRT.xml
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfGridBase.WinRT.dll
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfGridBase.WinRT.xml
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfGridConverter.WinRT.dll
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfGridConverter.WinRT.xml
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfHubTile.WinRT.dll
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfHubTile.WinRT.xml
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfInput.WinRT.dll
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfInput.WinRT.xml
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfMaps.WinRT.dll
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfMaps.WinRT.xml
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfPdfViewer.WinRT.dll
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfPdfViewer.WinRT.xml
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfRadialMenu.WinRT.dll
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfRadialMenu.WinRT.xml
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfReportViewer.WinRT.dll
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfReportViewer.WinRT.xml
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfRichTextBoxAdv.WinRT.dll
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfRichTextBoxAdv.WinRT.xml
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfSchedule.WinRT.dll
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfSchedule.WinRT.xml
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfShared.WinRT.dll
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfShared.WinRT.xml
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfTabControl.WinRT.dll
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfTabControl.WinRT.xml
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfTileView.WinRT.dll
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfTileView.WinRT.xml
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfTreeMap.WinRT.dll
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfTreeMap.WinRT.xml
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfTreeNavigator.WinRT.dll
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfTreeNavigator.WinRT.xml
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.XlsIO.WinRT.dll
+F:\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.XlsIO.WinRT.xml
+F:\Work\MrFrozo\MrFrozo\obj\x86\Debug\App.g.i.cs
+F:\Work\MrFrozo\MrFrozo\obj\x86\Debug\App.g.cs
+F:\Work\MrFrozo\MrFrozo\obj\x86\Debug\Pages\EngGrammar.g.i.cs
+F:\Work\MrFrozo\MrFrozo\obj\x86\Debug\Pages\EngGrammar.g.cs
+F:\Work\MrFrozo\MrFrozo\obj\x86\Debug\Pages\EnglishPage.g.i.cs
+F:\Work\MrFrozo\MrFrozo\obj\x86\Debug\Pages\EnglishPage.g.cs
+F:\Work\MrFrozo\MrFrozo\obj\x86\Debug\Pages\EngPuzzle.g.i.cs
+F:\Work\MrFrozo\MrFrozo\obj\x86\Debug\Pages\EngPuzzle.g.cs
+F:\Work\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MainPage.g.i.cs
+F:\Work\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MainPage.g.cs
+F:\Work\MrFrozo\MrFrozo\obj\x86\Debug\MyResources.g.i.cs
+F:\Work\MrFrozo\MrFrozo\obj\x86\Debug\MyResources.g.cs
+F:\Work\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MathAdditionPage.g.i.cs
+F:\Work\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MathAdditionPage.g.cs
+F:\Work\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MathPage.g.i.cs
+F:\Work\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MathPage.g.cs
+F:\Work\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MathPuzzle.g.i.cs
+F:\Work\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MathPuzzle.g.cs
+F:\Work\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MathSubtractionPage.g.i.cs
+F:\Work\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MathSubtractionPage.g.cs
+F:\Work\MrFrozo\MrFrozo\obj\x86\Debug\Pages\WelcomePage.g.i.cs
+F:\Work\MrFrozo\MrFrozo\obj\x86\Debug\Pages\WelcomePage.g.cs
+F:\Work\MrFrozo\MrFrozo\obj\x86\Debug\XamlTypeInfo.g.cs
+F:\Work\MrFrozo\MrFrozo\obj\x86\Debug\App.xaml
+F:\Work\MrFrozo\MrFrozo\obj\x86\Debug\Pages\EngGrammar.xaml
+F:\Work\MrFrozo\MrFrozo\obj\x86\Debug\Pages\EnglishPage.xaml
+F:\Work\MrFrozo\MrFrozo\obj\x86\Debug\Pages\EngPuzzle.xaml
+F:\Work\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MainPage.xaml
+F:\Work\MrFrozo\MrFrozo\obj\x86\Debug\MyResources.xaml
+F:\Work\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MathAdditionPage.xaml
+F:\Work\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MathPage.xaml
+F:\Work\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MathPuzzle.xaml
+F:\Work\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MathSubtractionPage.xaml
+F:\Work\MrFrozo\MrFrozo\obj\x86\Debug\Pages\WelcomePage.xaml
+F:\Work\MrFrozo\MrFrozo\obj\x86\Debug\App.xbf
+F:\Work\MrFrozo\MrFrozo\obj\x86\Debug\Pages\EngGrammar.xbf
+F:\Work\MrFrozo\MrFrozo\obj\x86\Debug\Pages\EnglishPage.xbf
+F:\Work\MrFrozo\MrFrozo\obj\x86\Debug\Pages\EngPuzzle.xbf
+F:\Work\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MainPage.xbf
+F:\Work\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MathAdditionPage.xbf
+F:\Work\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MathPage.xbf
+F:\Work\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MathPuzzle.xbf
+F:\Work\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MathSubtractionPage.xbf
+F:\Work\MrFrozo\MrFrozo\obj\x86\Debug\Pages\WelcomePage.xbf
+F:\Work\MrFrozo\MrFrozo\obj\x86\Debug\XamlSaveStateFile.xml
+F:\Work\MrFrozo\MrFrozo\obj\x86\Debug\MrFrozo.exe
+F:\Work\MrFrozo\MrFrozo\obj\x86\Debug\MrFrozo.pdb
+F:\Work\MrFrozo\MrFrozo\obj\x86\Debug\MrFrozo.csproj.GenerateResource.Cache
+F:\Work\MrFrozo\MrFrozo\obj\x86\Debug\priconfig.xml
+F:\Work\MrFrozo\MrFrozo\obj\x86\Debug\priconfig.xml.intermediate
+F:\Work\MrFrozo\MrFrozo\obj\x86\Debug\layout.resfiles
+F:\Work\MrFrozo\MrFrozo\obj\x86\Debug\layout.resfiles.intermediate
+F:\Work\MrFrozo\MrFrozo\obj\x86\Debug\resources.resfiles
+F:\Work\MrFrozo\MrFrozo\obj\x86\Debug\resources.resfiles.intermediate
+F:\Work\MrFrozo\MrFrozo\obj\x86\Debug\pri.resfiles
+F:\Work\MrFrozo\MrFrozo\obj\x86\Debug\pri.resfiles.intermediate
+F:\Work\MrFrozo\MrFrozo\obj\x86\Debug\qualifiers.txt
+F:\Work\MrFrozo\MrFrozo\obj\x86\Debug\qualifiers.txt.intermediate
+F:\Work\MrFrozo\MrFrozo\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\Work\MrFrozo\MrFrozo\obj\x86\Debug\ProjectArchitectures.txt
+F:\Work\MrFrozo\MrFrozo\obj\x86\Debug\MyResources.xbf
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\obj\x86\Debug\MrFrozo.exe
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\obj\x86\Debug\MrFrozo.pdb
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\bin\x86\Debug\App.xbf
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\bin\x86\Debug\MyResources.xbf
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\bin\x86\Debug\Pages\EngGrammar.xbf
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\bin\x86\Debug\Pages\EnglishPage.xbf
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\bin\x86\Debug\Pages\EngPuzzle.xbf
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\bin\x86\Debug\Pages\MainPage.xbf
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\bin\x86\Debug\Pages\MathAdditionPage.xbf
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\bin\x86\Debug\Pages\MathPage.xbf
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\bin\x86\Debug\Pages\MathPuzzle.xbf
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\bin\x86\Debug\Pages\MathSubtractionPage.xbf
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\bin\x86\Debug\Pages\WelcomePage.xbf
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\bin\x86\Debug\MrFrozo.xr.xml
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\bin\x86\Debug\MrFrozo.exe
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\bin\x86\Debug\MrFrozo.pdb
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\bin\x86\Debug\resources.pri
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.Data.WinRT.dll
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.Data.WinRT.xml
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.DocIO.WinRT.dll
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.DocIO.WinRT.xml
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.GridCommon.WinRT.dll
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.GridCommon.WinRT.xml
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.Pdf.WinRT.dll
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.Pdf.WinRT.xml
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfAccordion.WinRT.dll
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfAccordion.WinRT.xml
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfBarcode.WinRT.dll
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfBarcode.WinRT.xml
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfBulletGraph.WinRT.dll
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfBulletGraph.WinRT.xml
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfBusyIndicator.WinRT.dll
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfBusyIndicator.WinRT.xml
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfCarousel.WinRT.dll
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfCarousel.WinRT.xml
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfChart.WinRT.dll
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfColorPickers.WinRT.dll
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfColorPickers.WinRT.xml
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfDiagram.WinRT.dll
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfDiagram.WinRT.xml
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfGauge.WinRT.dll
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfGauge.WinRT.xml
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfGrid.WinRT.dll
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfGrid.WinRT.xml
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfGridBase.WinRT.dll
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfGridBase.WinRT.xml
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfGridConverter.WinRT.dll
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfGridConverter.WinRT.xml
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfHubTile.WinRT.dll
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfHubTile.WinRT.xml
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfInput.WinRT.dll
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfInput.WinRT.xml
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfMaps.WinRT.dll
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfMaps.WinRT.xml
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfPdfViewer.WinRT.dll
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfPdfViewer.WinRT.xml
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfRadialMenu.WinRT.dll
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfRadialMenu.WinRT.xml
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfReportViewer.WinRT.dll
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfReportViewer.WinRT.xml
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfRichTextBoxAdv.WinRT.dll
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfRichTextBoxAdv.WinRT.xml
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfSchedule.WinRT.dll
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfSchedule.WinRT.xml
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfShared.WinRT.dll
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfShared.WinRT.xml
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfTabControl.WinRT.dll
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfTabControl.WinRT.xml
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfTileView.WinRT.dll
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfTileView.WinRT.xml
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfTreeMap.WinRT.dll
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfTreeMap.WinRT.xml
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfTreeNavigator.WinRT.dll
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfTreeNavigator.WinRT.xml
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.XlsIO.WinRT.dll
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.XlsIO.WinRT.xml
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\obj\x86\Debug\App.g.i.cs
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\obj\x86\Debug\App.g.cs
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\obj\x86\Debug\MyResources.g.i.cs
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\obj\x86\Debug\MyResources.g.cs
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\obj\x86\Debug\Pages\EngGrammar.g.i.cs
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\obj\x86\Debug\Pages\EngGrammar.g.cs
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\obj\x86\Debug\Pages\EnglishPage.g.i.cs
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\obj\x86\Debug\Pages\EnglishPage.g.cs
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\obj\x86\Debug\Pages\EngPuzzle.g.i.cs
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\obj\x86\Debug\Pages\EngPuzzle.g.cs
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MainPage.g.i.cs
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MainPage.g.cs
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MathAdditionPage.g.i.cs
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MathAdditionPage.g.cs
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MathPage.g.i.cs
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MathPage.g.cs
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MathPuzzle.g.i.cs
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MathPuzzle.g.cs
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MathSubtractionPage.g.i.cs
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MathSubtractionPage.g.cs
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\obj\x86\Debug\Pages\WelcomePage.g.i.cs
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\obj\x86\Debug\Pages\WelcomePage.g.cs
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\obj\x86\Debug\App.xaml
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\obj\x86\Debug\MyResources.xaml
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\obj\x86\Debug\Pages\EngGrammar.xaml
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\obj\x86\Debug\Pages\EnglishPage.xaml
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\obj\x86\Debug\Pages\EngPuzzle.xaml
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MainPage.xaml
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MathAdditionPage.xaml
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MathPage.xaml
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MathPuzzle.xaml
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MathSubtractionPage.xaml
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\obj\x86\Debug\Pages\WelcomePage.xaml
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\obj\x86\Debug\App.xbf
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\obj\x86\Debug\MyResources.xbf
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\obj\x86\Debug\Pages\EngGrammar.xbf
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\obj\x86\Debug\Pages\EnglishPage.xbf
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\obj\x86\Debug\Pages\EngPuzzle.xbf
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MainPage.xbf
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MathAdditionPage.xbf
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MathPage.xbf
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MathPuzzle.xbf
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MathSubtractionPage.xbf
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\obj\x86\Debug\Pages\WelcomePage.xbf
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\obj\x86\Debug\MrFrozo.csproj.GenerateResource.Cache
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\obj\x86\Debug\priconfig.xml
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\obj\x86\Debug\layout.resfiles
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\obj\x86\Debug\resources.resfiles
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\obj\x86\Debug\pri.resfiles
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\obj\x86\Debug\qualifiers.txt
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\bin\x86\Debug\AppxManifest.xml
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\bin\x86\Debug\MrFrozo.build.appxrecipe
+C:\Users\MUNENE\Google Drive\Work\MrFrozo\MrFrozo\obj\x86\Debug\ProjectArchitectures.txt
+D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\App.xbf
+D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\MyResources.xbf
+D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Pages\EngGrammar.xbf
+D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Pages\EnglishPage.xbf
+D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Pages\EngPuzzle.xbf
+D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Pages\MainPage.xbf
+D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Pages\MathAdditionPage.xbf
+D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Pages\MathPage.xbf
+D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Pages\MathPuzzle.xbf
+D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Pages\MathSubtractionPage.xbf
+D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Pages\WelcomePage.xbf
+D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\MrFrozo.xr.xml
+D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\MrFrozo.exe
+D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\MrFrozo.pdb
+D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\resources.pri
+D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\AppxManifest.xml
+D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\MrFrozo.build.appxrecipe
+D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.Calculate.WinRT.dll
+D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.Calculate.WinRT.xml
+D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.Data.WinRT.dll
+D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.Data.WinRT.xml
+D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.DocIO.WinRT.dll
+D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.DocIO.WinRT.xml
+D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.GridCommon.WinRT.dll
+D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.GridCommon.WinRT.xml
+D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.Pdf.WinRT.dll
+D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.Pdf.WinRT.xml
+D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.PMML.WinRT.dll
+D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.PMML.WinRT.xml
+D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfAccordion.WinRT.dll
+D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfAccordion.WinRT.xml
+D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfBarcode.WinRT.dll
+D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfBarcode.WinRT.xml
+D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfBulletGraph.WinRT.dll
+D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfBulletGraph.WinRT.xml
+D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfBusyIndicator.WinRT.dll
+D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfBusyIndicator.WinRT.xml
+D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfCarousel.WinRT.dll
+D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfCarousel.WinRT.xml
+D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfChart.WinRT.dll
+D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfColorPickers.WinRT.dll
+D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfColorPickers.WinRT.xml
+D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfDiagram.WinRT.dll
+D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfDiagram.WinRT.xml
+D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfGauge.WinRT.dll
+D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfGauge.WinRT.xml
+D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfGrid.WinRT.dll
+D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfGrid.WinRT.xml
+D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfGridBase.WinRT.dll
+D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfGridBase.WinRT.xml
+D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfGridConverter.WinRT.dll
+D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfGridConverter.WinRT.xml
+D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfHubTile.WinRT.dll
+D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfHubTile.WinRT.xml
+D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfInput.WinRT.dll
+D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfInput.WinRT.xml
+D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfMaps.WinRT.dll
+D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfMaps.WinRT.xml
+D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfPdfViewer.WinRT.dll
+D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfPdfViewer.WinRT.xml
+D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfRadialMenu.WinRT.dll
+D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfRadialMenu.WinRT.xml
+D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfReportViewer.WinRT.dll
+D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfReportViewer.WinRT.xml
+D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfRibbon.WinRT.dll
+D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfRibbon.WinRT.xml
+D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfRichTextBoxAdv.WinRT.dll
+D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfRichTextBoxAdv.WinRT.xml
+D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfSchedule.WinRT.dll
+D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfSchedule.WinRT.xml
+D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfShared.WinRT.dll
+D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfShared.WinRT.xml
+D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfTabControl.WinRT.dll
+D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfTabControl.WinRT.xml
+D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfTileView.WinRT.dll
+D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfTileView.WinRT.xml
+D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfTreeMap.WinRT.dll
+D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfTreeMap.WinRT.xml
+D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfTreeNavigator.WinRT.dll
+D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfTreeNavigator.WinRT.xml
+D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.XlsIO.WinRT.dll
+D:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.XlsIO.WinRT.xml
+D:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\App.g.i.cs
+D:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\App.g.cs
+D:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\MyResources.g.i.cs
+D:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\MyResources.g.cs
+D:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\Pages\EngGrammar.g.i.cs
+D:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\Pages\EngGrammar.g.cs
+D:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\Pages\EnglishPage.g.i.cs
+D:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\Pages\EnglishPage.g.cs
+D:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\Pages\EngPuzzle.g.i.cs
+D:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\Pages\EngPuzzle.g.cs
+D:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MainPage.g.i.cs
+D:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MainPage.g.cs
+D:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MathAdditionPage.g.i.cs
+D:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MathAdditionPage.g.cs
+D:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MathPage.g.i.cs
+D:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MathPage.g.cs
+D:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MathPuzzle.g.i.cs
+D:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MathPuzzle.g.cs
+D:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MathSubtractionPage.g.i.cs
+D:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MathSubtractionPage.g.cs
+D:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\Pages\WelcomePage.g.i.cs
+D:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\Pages\WelcomePage.g.cs
+D:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\App.xaml
+D:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\MyResources.xaml
+D:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\Pages\EngGrammar.xaml
+D:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\Pages\EnglishPage.xaml
+D:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\Pages\EngPuzzle.xaml
+D:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MainPage.xaml
+D:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MathAdditionPage.xaml
+D:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MathPage.xaml
+D:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MathPuzzle.xaml
+D:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MathSubtractionPage.xaml
+D:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\Pages\WelcomePage.xaml
+D:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\App.xbf
+D:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\MyResources.xbf
+D:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\Pages\EngGrammar.xbf
+D:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\Pages\EnglishPage.xbf
+D:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\Pages\EngPuzzle.xbf
+D:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MainPage.xbf
+D:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MathAdditionPage.xbf
+D:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MathPage.xbf
+D:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MathPuzzle.xbf
+D:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MathSubtractionPage.xbf
+D:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\Pages\WelcomePage.xbf
+D:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\XamlSaveStateFile.xml
+D:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\MrFrozo.exe
+D:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\MrFrozo.pdb
+D:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\MrFrozo.csproj.GenerateResource.Cache
+D:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\priconfig.xml
+D:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\priconfig.xml.intermediate
+D:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\layout.resfiles
+D:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\layout.resfiles.intermediate
+D:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\resources.resfiles
+D:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\resources.resfiles.intermediate
+D:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\pri.resfiles
+D:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\pri.resfiles.intermediate
+D:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\qualifiers.txt
+D:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\qualifiers.txt.intermediate
+D:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\ProjectArchitectures.txt
+E:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\MrFrozo.exe
+E:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\MrFrozo.pdb
+E:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\App.xbf
+E:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\MyResources.xbf
+E:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Pages\EngGrammar.xbf
+E:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Pages\EnglishPage.xbf
+E:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Pages\EngPuzzle.xbf
+E:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Pages\MainPage.xbf
+E:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Pages\MathAdditionPage.xbf
+E:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Pages\MathPage.xbf
+E:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Pages\MathPuzzle.xbf
+E:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Pages\MathSubtractionPage.xbf
+E:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Pages\WelcomePage.xbf
+E:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\MrFrozo.xr.xml
+E:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\MrFrozo.exe
+E:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\MrFrozo.pdb
+E:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\resources.pri
+E:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\AppxManifest.xml
+E:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\MrFrozo.build.appxrecipe
+E:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.Calculate.WinRT.dll
+E:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.Calculate.WinRT.xml
+E:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.Data.WinRT.dll
+E:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.Data.WinRT.xml
+E:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.DocIO.WinRT.dll
+E:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.DocIO.WinRT.xml
+E:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.GridCommon.WinRT.dll
+E:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.GridCommon.WinRT.xml
+E:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.Pdf.WinRT.dll
+E:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.Pdf.WinRT.xml
+E:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.PMML.WinRT.dll
+E:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.PMML.WinRT.xml
+E:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfAccordion.WinRT.dll
+E:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfAccordion.WinRT.xml
+E:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfBarcode.WinRT.dll
+E:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfBarcode.WinRT.xml
+E:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfBulletGraph.WinRT.dll
+E:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfBulletGraph.WinRT.xml
+E:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfBusyIndicator.WinRT.dll
+E:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfBusyIndicator.WinRT.xml
+E:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfCarousel.WinRT.dll
+E:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfCarousel.WinRT.xml
+E:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfChart.WinRT.dll
+E:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfColorPickers.WinRT.dll
+E:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfColorPickers.WinRT.xml
+E:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfDiagram.WinRT.dll
+E:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfDiagram.WinRT.xml
+E:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfGauge.WinRT.dll
+E:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfGauge.WinRT.xml
+E:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfGrid.WinRT.dll
+E:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfGrid.WinRT.xml
+E:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfGridBase.WinRT.dll
+E:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfGridBase.WinRT.xml
+E:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfGridConverter.WinRT.dll
+E:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfGridConverter.WinRT.xml
+E:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfHubTile.WinRT.dll
+E:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfHubTile.WinRT.xml
+E:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfInput.WinRT.dll
+E:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfInput.WinRT.xml
+E:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfMaps.WinRT.dll
+E:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfMaps.WinRT.xml
+E:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfPdfViewer.WinRT.dll
+E:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfPdfViewer.WinRT.xml
+E:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfRadialMenu.WinRT.dll
+E:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfRadialMenu.WinRT.xml
+E:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfReportViewer.WinRT.dll
+E:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfReportViewer.WinRT.xml
+E:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfRibbon.WinRT.dll
+E:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfRibbon.WinRT.xml
+E:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfRichTextBoxAdv.WinRT.dll
+E:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfRichTextBoxAdv.WinRT.xml
+E:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfSchedule.WinRT.dll
+E:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfSchedule.WinRT.xml
+E:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfShared.WinRT.dll
+E:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfShared.WinRT.xml
+E:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfTabControl.WinRT.dll
+E:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfTabControl.WinRT.xml
+E:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfTileView.WinRT.dll
+E:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfTileView.WinRT.xml
+E:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfTreeMap.WinRT.dll
+E:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfTreeMap.WinRT.xml
+E:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfTreeNavigator.WinRT.dll
+E:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.SfTreeNavigator.WinRT.xml
+E:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.XlsIO.WinRT.dll
+E:\New Folder\MrFrozo\MrFrozo\bin\x86\Debug\Syncfusion.XlsIO.WinRT.xml
+E:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\App.g.i.cs
+E:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\App.g.cs
+E:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\MyResources.g.i.cs
+E:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\MyResources.g.cs
+E:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\Pages\EngGrammar.g.i.cs
+E:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\Pages\EngGrammar.g.cs
+E:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\Pages\EnglishPage.g.i.cs
+E:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\Pages\EnglishPage.g.cs
+E:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\Pages\EngPuzzle.g.i.cs
+E:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\Pages\EngPuzzle.g.cs
+E:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MainPage.g.i.cs
+E:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MainPage.g.cs
+E:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MathAdditionPage.g.i.cs
+E:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MathAdditionPage.g.cs
+E:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MathPage.g.i.cs
+E:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MathPage.g.cs
+E:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MathPuzzle.g.i.cs
+E:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MathPuzzle.g.cs
+E:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MathSubtractionPage.g.i.cs
+E:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MathSubtractionPage.g.cs
+E:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\Pages\WelcomePage.g.i.cs
+E:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\Pages\WelcomePage.g.cs
+E:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\XamlTypeInfo.g.cs
+E:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\App.xaml
+E:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\MyResources.xaml
+E:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\Pages\EngGrammar.xaml
+E:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\Pages\EnglishPage.xaml
+E:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\Pages\EngPuzzle.xaml
+E:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MainPage.xaml
+E:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MathAdditionPage.xaml
+E:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MathPage.xaml
+E:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MathPuzzle.xaml
+E:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MathSubtractionPage.xaml
+E:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\Pages\WelcomePage.xaml
+E:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\App.xbf
+E:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\MyResources.xbf
+E:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\Pages\EngGrammar.xbf
+E:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\Pages\EnglishPage.xbf
+E:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\Pages\EngPuzzle.xbf
+E:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MainPage.xbf
+E:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MathAdditionPage.xbf
+E:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MathPage.xbf
+E:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MathPuzzle.xbf
+E:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\Pages\MathSubtractionPage.xbf
+E:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\Pages\WelcomePage.xbf
+E:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\XamlSaveStateFile.xml
+E:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\MrFrozo.csproj.GenerateResource.Cache
+E:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\priconfig.xml
+E:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\priconfig.xml.intermediate
+E:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\layout.resfiles
+E:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\layout.resfiles.intermediate
+E:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\resources.resfiles
+E:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\resources.resfiles.intermediate
+E:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\pri.resfiles
+E:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\pri.resfiles.intermediate
+E:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\qualifiers.txt
+E:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\qualifiers.txt.intermediate
+E:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\New Folder\MrFrozo\MrFrozo\obj\x86\Debug\ProjectArchitectures.txt
